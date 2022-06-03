@@ -13,9 +13,9 @@
     <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1>
-  hey there
-  <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"text-align-last: center;/>
+<h1 align="center">
+  Hey There
+  <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" max-width="24px"text-align-last: center;/>
 </h1>
 <h1>Space Metaverse Token</h1>
 ‘French version’
