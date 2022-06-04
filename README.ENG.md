@@ -15,6 +15,9 @@
 </div>
 <h1>Space Metaverse Token</h1>
 <H2>‘English version’</H2>
+<em>Read this in other languages: 
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>, 
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>
 
 
 ## 🚀 Abstract
