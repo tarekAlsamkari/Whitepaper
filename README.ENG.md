@@ -13,8 +13,8 @@
     <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1>Space Metaverse Token</h1>
-<H2>‘English version’</H2>
+<h1 align="center">Space Metaverse Token</h1>
+<H2 align="center">‘French version’</H2>
 
 <em>Read this in other languages: 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>, 
