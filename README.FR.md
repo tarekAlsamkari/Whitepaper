@@ -13,13 +13,13 @@
     <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1>Space Metaverse Token</h1>
-<H2>‘French version’</H2>
+<h1 align="center">Space Metaverse Token</h1>
+<H2 align="center">‘French version’</H2>
 
 <em>Lire dans d’autres langues: 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>,
   <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a> 
-  
+
 ## 🚀 Résumé
 
 Dans des centaines d'années, l'humanité a développé une technologie de pointe capable de les transporter et de les maintenir sur d'autres planètes. Les pays du monde se sont réunis pour créer une agence unique qui supervise l'exploration, l'agence est nommée Space Metaverse Token (SPMT).
