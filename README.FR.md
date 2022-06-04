@@ -15,12 +15,10 @@
 </div>
 <h1>Space Metaverse Token</h1>
 <H2>‘French version’</H2>
-<br>
-<em>Read this in other languages: 
-<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>
-  <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>, 
-<br>
-<br>
+
+<em>Lire dans d’autres langues: 
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>,
+  <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a> 
   
 ## 🚀 Résumé
 
