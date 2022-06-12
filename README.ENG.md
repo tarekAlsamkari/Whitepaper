@@ -152,8 +152,6 @@ The SPMT NFTs collection consists of 40,000 NFTs; these NFTs are categorized int
 
 ## - SPMT Planets
 
-•	Il existe 15 000 NFT SPMT Planète
-
 •	There are 15,000 SPMT Planet NFTs.
 
 •	These planets can be developed for personal or commercial use or sold.
