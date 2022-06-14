@@ -18,27 +18,26 @@
 
 <em>Read this in other languages: 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>, 
-<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>,
+  <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.RO.md">Romanian</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.AR.md">Arabic</a>
 
 
 
 ## 🚀 Astratto
 Tra centinaia di anni, l'umanità avrà sviluppato una tecnologia avanzata in grado di trasportarli e sostenerli su altri pianeti. I paesi di tutto il mondo si sono uniti per creare un'unica agenzia che sovrintende a tutte le esplorazioni; l'agenzia si chiama Space Metaverse Token (SPMT).
 SPMT è una piattaforma di gioco metaversa unica nel suo genere in cui puoi esplorare pianeti simulati e sperimentare la realtà immersiva. Potresti trovare enormi opportunità di guadagno finanziario nel gioco, il tutto mentre esplori e ti diverti nel metaverso.
-SPMT è un'esplorazione dell'universo e il prossimo grande gioco Play2Earn (P2E). SPMT verrà lanciato sulla rete Ethereum e offre agli investitori varie opportunità per guadagnare denaro acquisendo pianeti privati, sviluppandoli e creando una microeconomia. Verrà lanciata la prima raccolta di 15.000 SPMT Planet NFT, ciascuno con caratteristiche e statistiche uniche. La criptovaluta SPMT e il token ERC-20, $SPMT, verranno utilizzati per decentralizzare la galassia digitale.
+SPMT è un'esplorazione dell'universo e il prossimo grande gioco Play2Earn (P2E). SPMT verrà lanciato sulla rete Ethereum e offre agli investitori varie opportunità per guadagnare denaro acquisendo pianeti privati, sviluppandoli e creando una microeconomia. Verrà lanciata la prima raccolta di 15.000 SPMT Planet NFT, ciascuno con caratteristiche e statistiche uniche. La criptovaluta SPMT e il token BEP-20, $SPMT, verranno utilizzati per decentralizzare la galassia digitale.
 Questo white paper fornisce una panoramica di alto livello del progetto SPMT. L'obiettivo principale è l'intrigante tecnologia blockchain utilizzata per stabilire un metaverso di gioco virtuale. Questo non è un white paper tecnico; invece, è un'introduzione al progetto SPMT da parte del pubblico generale, dei giocatori e degli appassionati di metaverse.
   
   
 ## 🚀 introduzione
-"The metaverse" has been turned into a buzzword by executives, analysts, and investors seeking to capitalize on this emerging technology. The metaverse is a futuristic virtual world where humans can work, play, rest, socialize, etc. Virtual Reality (VR) and Augmented Reality (AR) technologies are anticipated to seamlessly combine the virtual and real worlds in the growing digital environment. The metaverse will alter our perception of the internet.
-Ubiquitous 5G high-speed internet access, Web 3.0, virtual reality, augmented reality, blockchain technology, NFTs, and growing markets like remote work and online socializing are all helping to pave the way for the metaverse.
-According to Gartner, Inc., the number of individuals spending at least one hour every day in the metaverse for work, retail, education, social, or entertainment will increase by 25% in 2026. And according to Morgan Stanley, overall VR AR expenditures worldwide are expected to expand at a CAGR of 57 percent, from $12 billion in 2020 to $72.8 billion in 2024. Another report claims that the metaverse or virtual worlds, might be worth $8 trillion in revenue. In conclusion, experts estimate that the metaverse will be worth $1 trillion additional value per year. This is why investors, entrepreneurs, and technology corporations are vying for a piece of the rising tech market that creates significant opportunities.
-Metaverse is working on further combining the high-speed web with tangible sensory inputs to create more highly immersive digital environments. The immersive three-dimensional screen layer and integrated tactile inputs across a whole range of sense organs are used to create these virtual experiences. This virtual universe will generate a slew of new apps and enterprises and new career opportunities.
-The SPMT team believes that the metaverse is already here. We are creating the SPMT Metaverse to ensure you are positioned for entertainment and financial success with many opportunities to earn in our metaverse.
+"Il metaverso" è stato trasformato in una parola d'ordine da dirigenti, analisti e investitori che cercano di trarre vantaggio da questa tecnologia emergente. Il metaverso è un mondo virtuale futuristico in cui gli esseri umani possono lavorare, giocare, riposare, socializzare, ecc. Le tecnologie di realtà virtuale (VR) e realtà aumentata (AR) combineranno perfettamente il mondo virtuale e quello reale nell'ambiente digitale attualmente in crescita. Il metaverso altererà la nostra percezione di Internet.
 
-Secondo Gartner, Inc., il numero di persone che trascorrono almeno un'ora ogni giorno nel metaverso per lavoro, vendita al dettaglio, istruzione, socialità o intrattenimento aumenterà del 25% nel 2026. E secondo Morgan Stanley, le spese complessive di VR AR in tutto il mondo si prevede un'espansione a un CAGR del 57%, da $ 12 miliardi nel 2020 a $ 72,8 miliardi nel 2024. Un altro rapporto afferma che il metaverso, o mondi virtuali, potrebbe valere $ 8 trilioni di entrate. In conclusione, gli esperti stimano che il metaverso varrà $ 1 trilione di valore aggiuntivo all'anno. Questo è il motivo per cui investitori, imprenditori e società tecnologiche sono in lizza per un pezzo del mercato tecnologico in crescita che crea opportunità significative.
-Metaverse sta lavorando per combinare ulteriormente il web ad alta velocità con input sensoriali tangibili per creare ambienti digitali più coinvolgenti. Lo strato di schermo tridimensionale immersivo e gli input tattili integrati su un'intera gamma di organi di senso vengono utilizzati per creare queste esperienze virtuali. Questo universo virtuale genererà una serie di nuove app e imprese e nuove opportunità di carriera.
-Il team SPMT ritiene che il metaverso sia già qui. Stiamo creando SPMT Metaverse per assicurarti di essere posizionato per l'intrattenimento e il successo finanziario con molte opportunità di guadagnare nel nostro metaverse.
+L'accesso ad Internet ad alta velocità 5G, Web 3.0, la realtà virtuale, la realtà aumentata, la tecnologia blockchain, NFT e i mercati in crescita come il lavoro a distanza e la socializzazione online stanno tutti contribuendo a spianare la strada al metaverso.
+Secondo Gartner, Inc., il numero di persone che trascorrono almeno un'ora al giorno nel metaverso per lavoro, per vendita al dettaglio, per l'istruzione, per la socialità o l'intrattenimento aumenterà del 25% nel 2026. E secondo Morgan Stanley, le spese complessive di VR AR in tutto il mondo si prevede che avranno un'espansione del CAGR del 57%, da $ 12 miliardi nel 2020 a $ 72,8 miliardi nel 2024. Un altro rapporto afferma che il metaverso, o mondi virtuali, potrebbe valere $ 8 trilioni di entrate. In conclusione, gli esperti stimano che il metaverso varrà $ 1 trilione di valore aggiuntivo all'anno. Questo è il motivo per cui investitori, imprenditori e società tecnologiche sono in lizza per un pezzo del mercato tecnologico in crescita che crea opportunità significative.
+Metaverse sta lavorando per combinare ulteriormente il web ad alta velocità con input sensoriali tangibili per creare ambienti digitali più coinvolgenti. Lo strato di schermo tridimensionale immersivo e gli input tattili integrati su un'intera gamma di organi sensoriali vengono utilizzati per creare queste esperienze virtuali. Questo universo virtuale genererà una serie di nuove app e imprese e nuove opportunità di carriera.
+Il team SPMT ritiene che il metaverso sia già qui. Stiamo creando SPMT Metaverse per assicurarti di essere posizionato per l'intrattenimento e il successo finanziario con molte opportunità di guadagno nel nostro metaverse.
 
 
 ## 🚀 La tecnologia Blockchain
@@ -80,8 +79,8 @@ Il progetto SPMT ha utilizzato un approccio ludicizzato per mantenere vivo il di
 
 ## 🚀 Token di utilità $SPMT
 
-Il token $SPMT è il token di utilità utilizzato per le transazioni e altri processi nel progetto SPMT e nel metaverse. La criptovaluta SPMT è un token ERC-20 sulla blockchain di Ethereum.
-I token ERC-20 sono risorse digitali che utilizzano la blockchain di Ethereum per rappresentare una particolare quota di proprietà o diritto in un progetto blockchain. Questi token vengono creati e distribuiti utilizzando uno smart contract, che consente un processo più snello e automatizzato rispetto ai tradizionali metodi di raccolta fondi. I token ERC-20 possono rappresentare varie cose, inclusi i diritti di voto, le azioni di una società o l'accesso a un particolare servizio, in questo caso SPMT Metaverse.
+Il token $SPMT è il token di utilità utilizzato per le transazioni e altri processi nel progetto SPMT e nel metaverse. La criptovaluta SPMT è un token BEP-20 sulla blockchain di Ethereum.
+I token BEP-20 sono risorse digitali che utilizzano la blockchain di Ethereum per rappresentare una particolare quota di proprietà o diritto in un progetto blockchain. Questi token vengono creati e distribuiti utilizzando uno smart contract, che consente un processo più snello e automatizzato rispetto ai tradizionali metodi di raccolta fondi. I token BEP-20 possono rappresentare varie cose, inclusi i diritti di voto, le azioni di una società o l'accesso a un particolare servizio, in questo caso SPMT Metaverse.
   
   
 ## 🚀 Tokenomica e distribuzione
@@ -148,26 +147,27 @@ Gli NFT sono basati sulla tecnologia blockchain e offrono pieni diritti di propr
  L'aspetto più significativo del progetto SPMT è la comunità. Nel progetto SPMT, la comunità è essenziale poiché facilita i sostenitori e le connessioni in tutto il mondo. La comunità SPMT serve anche diversi obiettivi, tra cui l'associazione basata su interessi condivisi e il networking nel metaverso SPMT e il contributo finanziario per l'implementazione del progetto attraverso acquisti di token e NFT. Il progetto SPMT mira a raggiungere almeno 100 milioni di membri della comunità in tutto il mondo.
  
 
-## - Virtual Economy
+## - Economia virtuale
 
-A virtual economy operates in a fantasy environment, generally one that is virtual. These economies are primarily seen in multi-user, real-time online virtual worlds. Virtual currencies exist in virtual economies. While these virtual currencies cannot usually be exchanged for real-world currency in a bank or a change bureau, they can be traded on decentralized exchanges or among users' peers.
-The virtual economy in the SPMT is similar to a real one, albeit there are notable distinctions; for example, no need to pay taxes or feeding expenses in the metaverse. However, because players engage and participate in the SPMT Metaverse activities, some factors, such as the need to pay for services, acquire digital assets, explore particular planets, etc., necessitate a payment. And the payments are processed with the $SPMT cryptocurrency.
+
+Un'economia virtuale opera in un ambiente fantastico, generalmente virtuale. Queste economie sono viste principalmente in mondi virtuali online multiutente e in tempo reale. Le valute virtuali esistono nelle economie virtuali. Sebbene queste valute virtuali di solito non possano essere scambiate con la valuta del mondo reale in una banca o in un ufficio di cambio, possono essere scambiate su borse decentralizzate o tra pari degli utenti.
+L'economia virtuale nell'SPMT è simile a quella reale, sebbene vi siano notevoli distinzioni; per esempio, non c'è bisogno di pagare tasse o spese di alimentazione nel metaverso. Tuttavia, poiché i giocatori si impegnano e partecipano alle attività di SPMT Metaverse, alcuni fattori, come la necessità di pagare per servizi, acquisire risorse digitali, esplorare pianeti particolari, ecc., richiedono un pagamento. E i pagamenti vengono elaborati con la criptovaluta $SPMT.
   
   
-## - Staking
+## - Picchettamento
   
-Staking on the SPMT blockchain is the process of committing your $SPMT cryptocurrency assets to support and confirm transactions on the SPMT network. Staking is how SPMT verifies transactions and lets $SPMT holders earn rewards on their assets. Because the SPMT token employs proof-of-stake to validate transactions, it permits staking. The proof-of-stake model uses less energy than the traditional proof-of-work model.
-Staking is an excellent strategy to earn passive income with your $SPMT tokens, mainly because $SPMT pays out high-interest rates for staking. SPMT's annual staking interest rate is as high as 7%.
+Lo staking sulla blockchain di SPMT è il processo di impegno delle tue risorse di criptovaluta $SPMT per supportare e confermare le transazioni sulla rete SPMT. Lo staking è il modo in cui SPMT verifica le transazioni e consente ai titolari di $SPMT di guadagnare premi sui loro beni. Poiché il token SPMT utilizza il proof-of-stake per convalidare le transazioni, consente lo staking. Il modello proof-of-stake utilizza meno energia rispetto al modello proof-of-work tradizionale.
+Lo staking è un'eccellente strategia per guadagnare reddito passivo con i tuoi token $SPMT, principalmente perché $SPMT paga tassi di interesse elevati per lo staking. Il tasso di interesse annuale di SPMT raggiunge il 7%.
  
   
 ## - DAO
 
-SPMT DAO is a way of organizing how the project is run. DAO stands for Decentralized Autonomous Organization, and it is responsible for key decision-making. This means that there is no single person in charge; instead, decisions concerning the SPMT project are made by all participants of the SPMT DAO. The decision is made by allowing every participant in the DAO to vote for or against the decision.
-The criteria for participating in the SPMT DAO is acquiring one of the 15,000 SPMT Planet NFTs. The right to participate in the SPMT DAO is only reserved for the current holder of the Planet NFT. However, the DAO right is transferable if the current holder transfers it to another person.  
+SPMT DAO è un modo per organizzare il modo in cui viene eseguito il progetto. DAO sta per Decentralized Autonomous Organization ed è responsabile del processo decisionale chiave. Ciò significa che non esiste un unico responsabile; le decisioni relative al progetto SPMT sono invece prese da tutti i partecipanti all'SPMT DAO. La decisione viene presa consentendo a ogni partecipante al DAO di votare a favore o contro la decisione.
+Il criterio per partecipare all'SPMT DAO è l'acquisizione di uno dei 15.000 NFT di SPMT Planet. Il diritto di partecipare allo SPMT DAO è riservato solo all'attuale detentore del Planet NFT. Tuttavia, il diritto DAO è trasferibile se l'attuale titolare lo trasferisce a un'altra persona.
   
 ## - Portafoglio
 
- Un portafoglio crittografico è un supporto di archiviazione digitale per le criptovalute. Il Portafoglio memorizza le chiavi pubbliche e private necessarie per accedere e spendere i token $SPMT. I token sono memorizzati nell'indirizzo del portafoglio, una stringa univoca di caratteri alfanumerici. Attualmente utilizzeremo portafogli generici che supportano i token ERC-20, come Atomic Wallet, Trust Wallet, MetaMask, ecc. Successivamente, svilupperemo il nostro portafoglio SPMT personalizzato. Il portafoglio SPMT è un portafoglio multivaluta, il che significa che supporta altre criptovalute popolari come Bitcoin, Ethereum, ecc.
+Un portafoglio crittografico è un supporto di archiviazione digitale per le criptovalute. Il Portafoglio memorizza le chiavi pubbliche e private necessarie per accedere e spendere i token $SPMT. I token sono memorizzati nell'indirizzo del portafoglio, una stringa univoca di caratteri alfanumerici. Attualmente utilizzeremo portafogli generici che supportano i token ERC-20, come Atomic Wallet, Trust Wallet, MetaMask, ecc. Successivamente, svilupperemo il nostro portafoglio SPMT personalizzato. Il portafoglio SPMT è un portafoglio multivaluta, il che significa che supporta altre criptovalute popolari come Bitcoin, Ethereum, ecc.
   
   
 ## 🚀 SPMT NFTs
