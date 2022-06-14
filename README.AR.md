@@ -14,13 +14,13 @@
   </a>
 </div>
 <h1 align="center">Space Metaverse Token</h1>
-<H2 align="center">‘French version’</H2>
+<H2 align="center">‘Arabic version’</H2>
 
 <em>Lire dans d’autres langues: 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.RO.md">Romanian</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ITL.md">Italian</a>,
-<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.AR.md">Arabic</a>
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>,
   
 
 
