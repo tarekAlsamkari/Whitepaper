@@ -17,7 +17,7 @@
 <H2 align="center">‘English version’</H2>
 
 <em>Read this in other languages: 
-<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.Ro.md">Romanian</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.RO.md">Romanian</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.IT.md">Italian</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.AR.md">Arabic</a>
