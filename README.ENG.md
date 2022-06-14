@@ -19,13 +19,16 @@
 <em>Read this in other languages: 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>, 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.IT.md">French</a>
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.AR.md">French</a>
+
 
 
 
 ## 🚀 Abstract
 Hundreds of years from now, humankind will have developed advanced technology capable of transporting them and sustaining them on other planets. Countries worldwide have come together to create a single agency that oversees all exploration; the agency is named Space Metaverse Token (SPMT).
 SPMT is a one-of-a-kind metaverse gaming platform where you can explore simulated planets and experience immersive reality. You may find tremendous opportunities for financial gain in the game, all while exploring and having fun in the metaverse.
-SPMT is an exploration of the universe and the next big Play2Earn (P2E) game. SPMT is set to launch on the Ethereum network and offers investors various opportunities to earn money by acquiring private individual planets, developing them, and creating a micro-economy. The first collection of 15,000 SPMT Planet NFTs will be launched, each with unique characteristics and stats. The SPMT cryptocurrency and ERC-20 token, $SPMT, will be used to decentralize the digital galaxy.
+SPMT is an exploration of the universe and the next big Play2Earn (P2E) game. SPMT is set to launch on the Binance Smart Chain network and offers investors various opportunities to earn money by acquiring private individual planets, developing them, and creating a micro-economy. The first collection of 15,000 SPMT Planet NFTs will be launched, each with unique characteristics and stats. The SPMT cryptocurrency and BEP-20 token, $SPMT, will be used to decentralize the digital galaxy.
 This white paper provides a high-level overview of the SPMT project. The main focus is on the intriguing blockchain technology used to establish a virtual game metaverse. This is not a technical white paper; instead, it is a general audience, gamers, and metaverse enthusiasts' introduction to SPMT Project.
 
 
@@ -74,8 +77,8 @@ The SPMT project employed a gamified approach to keep the fun alive. On entering
 
 
 ## 🚀 $SPMT Utility Token
-$SPMT token is the utility token used for transactions and other processes in the SPMT project and metaverse. SPMT cryptocurrency is an ERC-20 token on the Ethereum blockchain.
-ERC-20 tokens are digital assets that use the Ethereum blockchain to represent a particular ownership stake or entitlement in a blockchain project. These tokens are created and distributed using a smart contract, which allows for a more streamlined and automated process than traditional fundraising methods. ERC-20 tokens can represent various things, including voting rights, shares in a company, or access to a particular service – in this case, the SPMT Metaverse.
+$SPMT token is the utility token used for transactions and other processes in the SPMT project and metaverse. SPMT cryptocurrency is an BEP-20 token on the BSC network.
+BEP-20 tokens are digital assets that use the Ethereum blockchain to represent a particular ownership stake or entitlement in a blockchain project. These tokens are created and distributed using a smart contract, which allows for a more streamlined and automated process than traditional fundraising methods. BEP-20 tokens can represent various things, including voting rights, shares in a company, or access to a particular service – in this case, the SPMT Metaverse.
 
 ## 🚀 Tokenomics and Distribution
 The total supply of $SPMT tokens will be pegged at 10,000,000,000. Each token is valued at $0.00025. Tokens will be sold through an ICO and soon be available on Launchpad. The tokens will be distributed in the following proportion among the major stakeholders:
@@ -145,7 +148,7 @@ SPMT DAO is a way of organizing how the project is run. DAO stands for Decentral
 The criteria for participating in the SPMT DAO is acquiring one of the 15,000 SPMT Planet NFTs. The right to participate in the SPMT DAO is only reserved for the current holder of the Planet NFT. However, the DAO right is transferable if the current holder transfers it to another person.
 
 ## - Wallet
-A crypto wallet is a digital storage medium for cryptocurrencies. The Wallet stores the public and private keys needed to access and spend the $SPMT tokens. The tokens are stored in the wallet's address, a unique string of alphanumeric characters. Currently, we'll be utilizing generic wallets that support ERC-20 tokens, such as Atomic Wallet, Trust Wallet, MetaMask, etc. Later, we will develop our custom SPMT Wallet. The SPMT Wallet is a multi-currency wallet which means it supports other popular cryptocurrencies such as Bitcoin, Ethereum, etc.
+A crypto wallet is a digital storage medium for cryptocurrencies. The Wallet stores the public and private keys needed to access and spend the $SPMT tokens. The tokens are stored in the wallet's address, a unique string of alphanumeric characters. Currently, we'll be utilizing generic wallets that support BEP-20 tokens, such as Atomic Wallet, Trust Wallet, MetaMask, etc. Later, we will develop our custom SPMT Wallet. The SPMT Wallet is a multi-currency wallet which means it supports other popular cryptocurrencies such as Bitcoin, Ethereum, etc.
 
 ## 🚀 SPMT NFTs
 The SPMT NFTs collection consists of 40,000 NFTs; these NFTs are categorized into four based on their purpose and utility.
