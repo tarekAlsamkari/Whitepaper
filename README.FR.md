@@ -18,14 +18,16 @@
 
 <em>Lire dans d’autres langues: 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>,
-  <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a> 
-
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.RO.md">Romanian</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ITL.md">Italian</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.AR.md">Arabic</a>
 ## 🚀 Résumé
 
 Dans des centaines d'années, l'humanité a développé une technologie de pointe capable de les transporter et de les maintenir sur d'autres planètes. Les pays du monde se sont réunis pour créer une agence unique qui supervise l'exploration, l'agence est nommée Space Metaverse Token (SPMT).
 SPMT est une plate-forme de jeu metaverse unique en son genre où vous pouvez explorer la réalité simulée mais immersive des planètes. Vous pouvez trouver d'énormes opportunités de gain financier dans le jeu, tout en explorant et en vous amusant dans le metaverse.
-SPMT est une exploration de l'univers et le prochain grand jeu à gagner (P2E). SPMT est sur le point de se lancer sur le réseau Ethereum et offre aux investisseurs diverses opportunités de gagner en acquérant des planètes individuelles privées, en les développant et en y créant une micro-économie. La première collection de 15 000 SPMT Planet NFT sera lancée, chacune avec son propre ensemble de caractéristiques et de statistiques uniques.
-La crypto-monnaie SPMT et le jeton ERC-20, $SPMT, seront utilisés pour décentraliser la galaxie numérique.
+SPMT est une exploration de l'univers et le prochain grand jeu à gagner (P2E). SPMT est sur le point de se lancer sur le réseau Binance Smart Chain et offre aux investisseurs diverses opportunités de gagner en acquérant des planètes individuelles privées, en les développant et en y créant une micro-économie. La première collection de 15 000 SPMT Planet NFT sera lancée, chacune avec son propre ensemble de caractéristiques et de statistiques uniques.
+La crypto-monnaie SPMT et le jeton BEP-20, $SPMT, seront utilisés pour décentraliser la galaxie numérique.
 Ce livre blanc fournit un aperçu de haut niveau du projet SPMT. Ce livre blanc se concentre principalement sur la technologie blockchain intrigante qui peut être utilisée pour établir un métavers de jeu virtuel. Ceci n'est pas un livre blanc technique ; il s'agit plutôt d'une introduction au projet SPMT pour le grand public, les joueurs et les passionnés de métavers.
 
 
@@ -70,8 +72,8 @@ Le projet SPMT s'adresse à tous ; investisseurs, joueurs, explorateurs, passion
 Le projet SPMT a utilisé une approche ludique pour garder le plaisir vivant. En entrant dans le SPMT Metaverse, les joueurs peuvent décider de flotter vers leur planète ou de prendre une navette spatiale – ce qui est plus rapide. Les joueurs individuels du SPMT Metaverse peuvent posséder ces navettes spatiales pour un usage personnel ou un transport commercial - ce qui est l'une des nombreuses façons de gagner dans le SPMT Metaverse. De plus, il existe des planètes gratuites à explorer pour les joueurs qui n'ont pas les moyens de payer les frais de tourisme.
 
 ## 🚀 Jeton utilitaire $SPMT
-Le jeton $SPMT est le jeton utilitaire utilisé pour les transactions et autres processus dans le projet SPMT et le métaverse. La crypto-monnaie SPMT est un jeton ERC-20 sur la blockchain Ethereum.
-Les jetons ERC-20 sont des actifs numériques qui utilisent la blockchain Ethereum pour représenter une participation ou un droit particulier dans un projet de blockchain. Ces jetons sont créés et distribués à l'aide d'un contrat intelligent, ce qui permet un processus plus rationalisé et automatisé que les méthodes de collecte de fonds traditionnelles. Les jetons ERC-20 peuvent représenter diverses choses, y compris les droits de vote, les actions dans une entreprise ou l'accès à un service particulier - dans ce cas, le SPMT Metaverse.
+Le jeton $SPMT est le jeton utilitaire utilisé pour les transactions et autres processus dans le projet SPMT et le métaverse. La crypto-monnaie SPMT est un jeton BEP-20 sur la blockchain BSC.
+Les jetons BEP-20 sont des actifs numériques qui utilisent la blockchain Binance Smart Chain pour représenter une participation ou un droit particulier dans un projet de blockchain. Ces jetons sont créés et distribués à l'aide d'un contrat intelligent, ce qui permet un processus plus rationalisé et automatisé que les méthodes de collecte de fonds traditionnelles. Les jetons BEP-20 peuvent représenter diverses choses, y compris les droits de vote, les actions dans une entreprise ou l'accès à un service particulier - dans ce cas, le SPMT Metaverse.
 
 ## 🚀 Tokenomics et distribution
 L'offre totale de jetons $SPMT sera fixée à 10 000 000 000. Chaque jeton est évalué à 0,00025 $. Les jetons seront vendus via un ICO et seront bientôt disponibles sur Launchpad. Les jetons seront répartis dans la proportion suivante entre les principales parties prenantes :
@@ -135,7 +137,7 @@ SPMT DAO est une façon d'organiser la façon dont le projet est exécuté. DAO 
 Le critère de participation au SPMT DAO est l'acquisition de l'un des 15 000 NFT SPMT Planet. Le droit de participer au SPMT DAO est uniquement réservé au titulaire actuel du Planet NFT. Cependant, le droit DAO est transférable si le titulaire actuel le cède à une autre personne.
 
 ## - Portefeuille
-Un portefeuille crypto est un support de stockage numérique pour les crypto-monnaies. Le portefeuille stocke les clés publiques et privées nécessaires pour accéder et dépenser les jetons $SPMT. Les jetons sont stockés dans l'adresse du portefeuille, une chaîne unique de caractères alphanumériques. Actuellement, nous utiliserons des portefeuilles génériques prenant en charge les jetons ERC-20, tels que Atomic Wallet, Trust Wallet, MetaMask, etc. Plus tard, nous développerons notre portefeuille SPMT personnalisé. Le portefeuille SPMT est un portefeuille multi-devises, ce qui signifie qu'il prend en charge d'autres crypto-monnaies populaires telles que Bitcoin, Ethereum, etc.
+Un portefeuille crypto est un support de stockage numérique pour les crypto-monnaies. Le portefeuille stocke les clés publiques et privées nécessaires pour accéder et dépenser les jetons $SPMT. Les jetons sont stockés dans l'adresse du portefeuille, une chaîne unique de caractères alphanumériques. Actuellement, nous utiliserons des portefeuilles génériques prenant en charge les jetons BEP-20, tels que Atomic Wallet, Trust Wallet, MetaMask, etc. Plus tard, nous développerons notre portefeuille SPMT personnalisé. Le portefeuille SPMT est un portefeuille multi-devises, ce qui signifie qu'il prend en charge d'autres crypto-monnaies populaires telles que Bitcoin, Ethereum, etc.
 
 ## 🚀 Caractéristiques SPMT
 La collection de NFT SPMT se compose de 40 000 NFT ; ces NFT sont classés en quatre en fonction de leur objectif et de leur utilité.
