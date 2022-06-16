@@ -75,7 +75,8 @@ Le jeton $SPMT est le jeton utilitaire utilisé pour les transactions et autres 
 Les jetons BEP-20 sont des actifs numériques qui utilisent la blockchain Binance Smart Chain pour représenter une participation ou un droit particulier dans un projet de blockchain. Ces jetons sont créés et distribués à l'aide d'un contrat intelligent, ce qui permet un processus plus rationalisé et automatisé que les méthodes de collecte de fonds traditionnelles. Les jetons BEP-20 peuvent représenter diverses choses, y compris les droits de vote, les actions dans une entreprise ou l'accès à un service particulier - dans ce cas, le SPMT Metaverse.
 
 ## 🚀 Tokenomics et distribution
-L'offre totale de jetons $SPMT sera fixée à 10 000 000 000. Chaque jeton est évalué à 0,00025 $. Les jetons seront vendus via un ICO et seront bientôt disponibles sur Launchpad. Les jetons seront répartis dans la proportion suivante entre les principales parties prenantes :
+
+L'offre totale de jetons SPMT sera fixée à 10 000 000 000. Chaque jeton est évalué à 0,00025 $. Les jetons seront vendus via un ICO et seront bientôt disponibles sur Launchpad. Les jetons seront répartis dans la proportion suivante entre les principales parties prenantes :
 
 
 | Partie prenante | Pourcentage     | Montant                | Valeur                |
