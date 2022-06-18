@@ -254,7 +254,6 @@ Gamificarea poate adăuga o dimensiune suplimentară de distracție și entuzias
 
 ## ✔️ Avertisment
 Informațiile conținute în acest document, white-paper-ul Space Metaverse Token, sunt furnizate exclusiv în scopuri informative, fără garanții exprese sau implicite, inclusiv garanții de acuratețe, completitudine sau adecvare pentru un anumit scop. Acest document nu este destinat să fie și nu constituie sfaturi comerciale, financiare, de investiții sau alte tipuri de consiliere. Pe baza acestui document, nu trebuie să faceți nicio alegere financiară sau de investiții fără a efectua cercetări independente și a consulta un consilier financiar competent. Unele țări pot avea legi împotriva tranzacționării sau participării la procese sau activități legate de cripto. Găsiți legile locale despre activitățile legate de criptomonede din localitatea dvs. înainte de a vă implica în Space Metaverse Token. Niciun membru al echipei nu va fi tras la răspundere în cazul unei pierderi financiare. Space Metaverse Tokens (NFT), token-urile $SPMT și alte tranzacții cu cripto-active au recompense și riscuri potențiale. Este posibil să nu fie potrivit ca toată lumea să participe la economia și activitățile Space Metaverse Token. Oricine se gândește să investească ar trebui să caute ajutor de specialitate. În cele din urmă, acceptați că utilizați această carte albă și informațiile acesteia exclusiv pe propriul risc.
-[0:56 pm, 18/06/2022] Adi: I copied it directly here
 
 
 
