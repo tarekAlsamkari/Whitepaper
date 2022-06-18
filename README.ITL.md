@@ -27,7 +27,7 @@
 ## 🚀 Astratto
 Tra centinaia di anni, l'umanità avrà sviluppato una tecnologia avanzata in grado di trasportarli e sostenerli su altri pianeti. I paesi di tutto il mondo si sono uniti per creare un'unica agenzia che sovrintende a tutte le esplorazioni; l'agenzia si chiama Space Metaverse Token (SPMT).
 SPMT è una piattaforma di gioco metaversa unica nel suo genere in cui puoi esplorare pianeti simulati e sperimentare la realtà immersiva. Potresti trovare enormi opportunità di guadagno finanziario nel gioco, il tutto mentre esplori e ti diverti nel metaverso.
-SPMT è un'esplorazione dell'universo e il prossimo grande gioco Play2Earn (P2E). SPMT verrà lanciato sulla rete Ethereum e offre agli investitori varie opportunità per guadagnare denaro acquisendo pianeti privati, sviluppandoli e creando una microeconomia. Verrà lanciata la prima raccolta di 15.000 SPMT Planet NFT, ciascuno con caratteristiche e statistiche uniche. La criptovaluta SPMT e il token BEP-20, $SPMT, verranno utilizzati per decentralizzare la galassia digitale.
+SPMT è un'esplorazione dell'universo e il prossimo grande gioco Play2Earn (P2E). SPMT verrà lanciato sulla rete Binance Smart Chain e offre agli investitori varie opportunità per guadagnare denaro acquisendo pianeti privati, sviluppandoli e creando una microeconomia. Verrà lanciata la prima raccolta di 15.000 SPMT Planet NFT, ciascuno con caratteristiche e statistiche uniche. La criptovaluta SPMT e il token BEP-20, $SPMT, verranno utilizzati per decentralizzare la galassia digitale.
 Questo white paper fornisce una panoramica di alto livello del progetto SPMT. L'obiettivo principale è l'intrigante tecnologia blockchain utilizzata per stabilire un metaverso di gioco virtuale. Questo non è un white paper tecnico; invece, è un'introduzione al progetto SPMT da parte del pubblico generale, dei giocatori e degli appassionati di metaverse.
   
   
@@ -79,8 +79,8 @@ Il progetto SPMT ha utilizzato un approccio ludicizzato per mantenere vivo il di
 
 ## 🚀 Token di utilità $SPMT
 
-Il token $SPMT è il token di utilità utilizzato per le transazioni e altri processi nel progetto SPMT e nel metaverse. La criptovaluta SPMT è un token BEP-20 sulla blockchain di Ethereum.
-I token BEP-20 sono risorse digitali che utilizzano la blockchain di Ethereum per rappresentare una particolare quota di proprietà o diritto in un progetto blockchain. Questi token vengono creati e distribuiti utilizzando uno smart contract, che consente un processo più snello e automatizzato rispetto ai tradizionali metodi di raccolta fondi. I token BEP-20 possono rappresentare varie cose, inclusi i diritti di voto, le azioni di una società o l'accesso a un particolare servizio, in questo caso SPMT Metaverse.
+Il token $SPMT è il token di utilità utilizzato per le transazioni e altri processi nel progetto SPMT e nel metaverse. La criptovaluta SPMT è un token BEP-20 sulla blockchain di Binance Smart Chain.
+I token BEP-20 sono risorse digitali che utilizzano la blockchain di BSC per rappresentare una particolare quota di proprietà o diritto in un progetto blockchain. Questi token vengono creati e distribuiti utilizzando uno smart contract, che consente un processo più snello e automatizzato rispetto ai tradizionali metodi di raccolta fondi. I token BEP-20 possono rappresentare varie cose, inclusi i diritti di voto, le azioni di una società o l'accesso a un particolare servizio, in questo caso SPMT Metaverse.
   
   
 ## 🚀 Tokenomica e distribuzione
@@ -167,7 +167,7 @@ Il criterio per partecipare all'SPMT DAO è l'acquisizione di uno dei 15.000 NFT
   
 ## - Portafoglio
 
-Un portafoglio crittografico è un supporto di archiviazione digitale per le criptovalute. Il Portafoglio memorizza le chiavi pubbliche e private necessarie per accedere e spendere i token $SPMT. I token sono memorizzati nell'indirizzo del portafoglio, una stringa univoca di caratteri alfanumerici. Attualmente utilizzeremo portafogli generici che supportano i token ERC-20, come Atomic Wallet, Trust Wallet, MetaMask, ecc. Successivamente, svilupperemo il nostro portafoglio SPMT personalizzato. Il portafoglio SPMT è un portafoglio multivaluta, il che significa che supporta altre criptovalute popolari come Bitcoin, Ethereum, ecc.
+Un portafoglio crittografico è un supporto di archiviazione digitale per le criptovalute. Il Portafoglio memorizza le chiavi pubbliche e private necessarie per accedere e spendere i token $SPMT. I token sono memorizzati nell'indirizzo del portafoglio, una stringa univoca di caratteri alfanumerici. Attualmente utilizzeremo portafogli generici che supportano i token BEP-20, come Atomic Wallet, Trust Wallet, MetaMask, ecc. Successivamente, svilupperemo il nostro portafoglio SPMT personalizzato. Il portafoglio SPMT è un portafoglio multivaluta, il che significa che supporta altre criptovalute popolari come Bitcoin, Ethereum, ecc.
   
   
 ## 🚀 SPMT NFTs
