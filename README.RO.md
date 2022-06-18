@@ -27,8 +27,8 @@
 ## 🚀 Abstract
 In cateva sute de ani, omenirea va ajunge intr-un punct unde vor fi capabili sa se transporte si sa locuiasca pe alte planete. Marile puteri ale lumii s-au alaturat pentru a crea o agentie menita pentru explorarea spatiului, numita Space Metaverse Token (SPMT).
 SPMT este o platforma de metaverse gaming unde poti explora imensitatea diferitelor planetele. In joc se pot gasi numeroase oportunitati financiare, in timp ce te distrezi explorand universul.
-SPMT este o explorare a universului și următorul joc mare care va câștiga (P2E). SPMT este setat pentru lansarea  pe rețeaua Ethereum și oferă investitorilor diverse oportunități de a câștiga prin achiziție planete individuale private, dezvoltând-o și creând microeconomie în ea. In prima colecție de 15.000 de SPMT Planet NFT fiecare va avea propriul său set de caracteristici și statistici unice.
-Criptomoneda SPMT și tokenul ERC-20, $SPMT, vor fi folosite pentru a descentraliza galaxia digitală.
+SPMT este o explorare a universului și următorul joc mare care va câștiga (P2E). SPMT este setat pentru lansarea  pe rețeaua Binance Smart Chain și oferă investitorilor diverse oportunități de a câștiga prin achiziție planete individuale private, dezvoltând-o și creând microeconomie în ea. In prima colecție de 15.000 de SPMT Planet NFT fiecare va avea propriul său set de caracteristici și statistici unice.
+Criptomoneda SPMT și tokenul BEP-20, $SPMT, vor fi folosite pentru a descentraliza galaxia digitală.
 Această carte albă oferă o imagine de ansamblu la nivel înalt a proiectului SPMT. Obiectivul principal al acestei cărți albe este de a introduce tehnologia blockchain care poate fi folosită pentru a stabili un metavers de joc virtual. Aceasta este nu o carte albă tehnică; mai degrabă, este un public general,jucători și pasionați de metaverse.
 
 ## 🚀 Introducere
@@ -79,8 +79,8 @@ Jucătorii individuali din SPMT Metaverse pot deține aceste navete spațiale pe
 
 
 ## 🚀 $SPMT Token
-Tokenul $SPMT este token-ul utilitar – tokenul care va fi folosit pentru tranzacții de tranzacționare și unele procese din proiectul SPMT și metavers. Criptomoneda SPMT și tokenul ERC-20 pe Blockchain Ethereum.
-Tokenurile ERC-20 sunt active digitale care folosesc blockchain-ul Ethereum pentru a reprezenta o anume cota de proprietate sau dreptul într-un proiect blockchain. Aceste jetoane sunt create și distribuite folosind un contract inteligent, care permite un proces mai eficient și mai automatizat decât cel traditional: metode de strângere de fonduri. Jetoanele ERC-20 pot fi folosite pentru a reprezenta o varietate de lucruri diferite,
+Tokenul $SPMT este token-ul utilitar – tokenul care va fi folosit pentru tranzacții de tranzacționare și unele procese din proiectul SPMT și metavers. Criptomoneda SPMT și tokenul BEP-20 pe Blockchain BSC.
+Tokenurile BEP-20 sunt active digitale care folosesc blockchain-ul Binance Smart Chain pentru a reprezenta o anume cota de proprietate sau dreptul într-un proiect blockchain. Aceste jetoane sunt create și distribuite folosind un contract inteligent, care permite un proces mai eficient și mai automatizat decât cel traditional: metode de strângere de fonduri. Jetoanele BEP-20 pot fi folosite pentru a reprezenta o varietate de lucruri diferite,
 inclusiv drepturile de vot, acțiunile unei companii sau accesul la un anumit serviciu – în acest caz SPMT Metavers.
 
 ## 🚀 Distribuirea si Tokenomics
