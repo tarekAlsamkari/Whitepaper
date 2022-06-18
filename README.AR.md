@@ -16,7 +16,7 @@
 <h1 align="center">Space Metaverse Token</h1>
 <H2 align="center">‘Arabic version’</H2>
 
-<em>Lire dans d’autres langues: 
+<em>للقراءة بلغات أخرى: 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.RO.md">Romanian</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ITL.md">Italian</a>,
