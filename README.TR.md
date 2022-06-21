@@ -90,7 +90,7 @@ SPMT Metaverse, oyuncuları meşgul etmek için sürükleyici deneyimlerle dolud
 Meta-Turizm, turizmin sanal dünyalarına seyahat eden insanları tanımlamak için kullanılan nispeten yeni bir terimdir. Olabilmek Video oyunları, sosyal ağlar veya web siteleri gibi birçok dijital platform aracılığıyla bu sanal dünyalara erişim uzmanlaşmış. Son yıllarda sanal dünyaları ziyaret edenlerin sayısında bir artış olmuştur.eğlence. SPMT metaverselerinde, gezegen sahipleri gerçek konumlara dayalı hayali manzaralar veya sahneler oluşturabilir. Turistler genellikle burayı ziyaret eder. Olağanüstü bir şey yaşamak için sanal manzara.
   
 
-## - madencilik
+## - Mining
 SPMT Metaverse'deki gezegenlerin her birinin yüzeyinin altında gizlenmiş $SPMT belirteçleri vardır; Gezegen sahipleri gezegenlerini kazabilir ve bunları benimseyebilirler. Jetonları ve onları çabaları için bir ödül olarak alın. Mayınlı SPMT$ jetonları, oyuncunun dijital dengesine anında yansıtılır cüzdanın içinde. Jetonlar daha sonra nakde dönüştürülebilir veya merkezi olmayan borsalarda diğer kripto para birimleriyle takas edilebilir. Tamamlamak Bu döngü için SPMT jetonunun toplam arzının %35'ini USD olarak ayırın. SPMT meta veri deposu, kazma, kürek ve eksen gibi temel madencilik araçlarını sağlarAncak jetonlar için manuel madencilik SPMT gezegenlerinde göz korkutucu bir görev olabilir ve çok zaman alır; Bu nedenle, sahiplerinin kullanabileceği birinci sınıf madencilik araçları vardır. Gezegenler, gezegenlerindeki kaynakları daha hızlı çıkarmalarını sağlar. Bu araçlar arasında tarayıcılar, ekskavatörler, matkaplar, Traktörler, vb. Bu enstrümanlar NFT formatındadır ve değerleri verimliliklerine göre değişir; Sahibi artık faiz bulamazsa yeniden satılabilir ona.
   
 
@@ -123,7 +123,8 @@ Sanal bir ekonomi kurgusal bir ortamda, genellikle sanal bir ortamda çalışır
   
 
 ## - Staking
- SPMT Blok Zincirinde Tahsis, SPMT'deki işlemleri desteklemek ve onaylamak için SPMT$ kripto varlıklarınızı tahsis etme işlemidir. SPMT ağı. Stake, SPMT'nin işlemleri doğrulama şeklidir ve SPMT$ sahiplerinin varlıkları üzerinde ödül kazanmalarına olanak tanır. Vadesi dolmuş SPMT belirteci, işlemleri doğrulamak için Proof of Stake kullandığından, depolamaya izin verir. Proof of Stake modeli, şu modelden daha az güç kullanır: İş formunun geleneksel kanıtı. Tahsis, ülkelerdeki SPMT paraları ile pasif gelir elde etmek için mükemmel bir stratejidir.Amerika Birleşik Devletleri'nde, çünkü esas olarak $SPMT, bahis için yüksek faiz oranları öder. SPMT hissesinin yıllık faiz oranı %7'ye kadardır. 
+ 
+SPMT Blok Zincirinde Tahsis, SPMT'deki işlemleri desteklemek ve onaylamak için SPMT$ kripto varlıklarınızı tahsis etme işlemidir. SPMT ağı. Stake, SPMT'nin işlemleri doğrulama şeklidir ve SPMT$ sahiplerinin varlıkları üzerinde ödül kazanmalarına olanak tanır. Vadesi dolmuş SPMT belirteci, işlemleri doğrulamak için Proof of Stake kullandığından, depolamaya izin verir. Proof of Stake modeli, şu modelden daha az güç kullanır: İş formunun geleneksel kanıtı. Tahsis, ülkelerdeki SPMT paraları ile pasif gelir elde etmek için mükemmel bir stratejidir.Amerika Birleşik Devletleri'nde, çünkü esas olarak $SPMT, bahis için yüksek faiz oranları öder. SPMT hissesinin yıllık faiz oranı %7'ye kadardır. 
   
   
 
@@ -205,51 +206,51 @@ Gerçek dünyaya benzer şekilde, gezegen sahipleri belirli bir amaç için geli
 ## -🪐 Gezegen gelişimi 
 Metaverse gezegen sahipleri, gezegenlerini rekor bir seviyeye yükseltebilir ve diğer SPMT oyuncularına açık artırmayla satabilir. satılacak gezegeni geliştirme maliyetinden daha yüksek bir fiyata ve dolayısıyla geliştirmeden kar edin.
 
-## -🪐 Trading
-All metaverse users can trade digital assets and tokens inside the metaverse. The SPMT economy is dynamic; values of assets fluctuate. Users can use the dynamic value to purchase assets during a dip and sell them off during a rise, thereby earning profits.
+## -🪐 Ticaret 
 
+Tüm Metaverse kullanıcıları, Metaverse içinde dijital varlık ve token ticareti yapabilir. SPMT ekonomisi dinamiktir.değerler dalgalanıyor varlıklar. Kullanıcılar, varlıkları düşerken satın almak ve yükselirken satmak için dinamik değeri kullanabilir, böylece kar elde edebilir.
 
-## -🪐  Services
-Not all planet owners will have the time and resources to develop their planets on their own; they will need help from someone who can complete some tasks on their behalf. Some users can then profit by offering various services to planet owners. For instance, civil engineers can earn by providing construction services during planet development.
-
+## -🪐  Hizmetler
+Tüm gezegen sahipleri, gezegenlerini kendileri geliştirmek için zamana ve kaynaklara sahip olmayacak; Bazılarını tamamlayabilecek birinden yardıma ihtiyaçları olacak. adına görev yapmaktadır. Bazı kullanıcılar daha sonra gezegen sahiplerine çeşitli hizmetler sunarak kazanç sağlayabilir. Örneğin, olabilir İnşaat mühendisleri, gezegeni geliştirirken inşaat hizmetleri sağlayarak kazanabilirler.
 
 ## -🪐 Mining
-There are random amounts of $SPMT tokens hidden below the surface of each SPMT planet; planet owners can only have these tokens when they mine them. Once mined, the tokens reflect on the balance inside the connected crypto wallet.
-
+Her SPMT gezegeninin yüzeyinin altına gizlenmiş rastgele miktarlarda $SPMT jetonu vardır; Gezegen sahipleri bunu alabilir Jetonlar yalnızca onları madencilik yaparken. Maden çıkarıldıktan sonra jetonlar, bağlı kripto cüzdanındaki bakiyeye yansıtılır.
 
 ## -🪐  Staking
-Crypto staking is a form of investment that allows users to earn rewards while retaining ownership of their cryptocurrencies. SPMT Staking is how holders use their SPMT tokens to validate transactions and get rewards. This process allows stakers to earn instant rewards, a significant advantage for users who hold their digital assets in their wallets.
+kullanıcıların kripto para birimlerinin sahipliğini korurken ödül kazanmalarını sağlayan bir yatırım şeklidir. SPMT Staking, sahiplerinin işlemleri doğrulamak ve ödül almak için SPMT tokenlerini nasıl kullandıklarıdır. izin verir Bu süreç spekülatörler için kârDijital varlıklarını cüzdanlarında tutan kullanıcılar için önemli bir özellik olan anında ödüller.
 
 
-## 🚀 SPMT Core Technologies
-
-## - Smart Contract
-A smart contract is a blockchain protocol intended to facilitate, verify, or enforce the negotiation or performance of a contract. Smart contracts allow the execution of credible transactions without third parties. The network nodes verified these transactions and recorded them in a dispersed public ledger called a blockchain. Smart contracts handle all operations and processes in the SPMT Metaverse, eliminating human interference. Thus, it seamlessly and securely executes instructions in split seconds.
-
-## - Artificial Intelligence
-Artificial intelligence is used in the metaverse to create and control interactive computer-based characters known as avatars. These avatars can interact with other objects in the virtual world. They can be customized to look and act however the user desires. The use of artificial intelligence allows for more realistic and lifelike interactions in the metaverse, which can help to improve the overall user experience.
-Artificial intelligence will play a significant role in the SPMT Metaverse. It will be used to create intelligent avatars and manage the many aspects of the virtual world. AI will also be used to create realistic environments and objects, making the SPMT Metaverse feel more like a real-world environment.
+## 🚀 SPMT Çekirdek Teknolojileri
 
 
-## - VR/AR
-Virtual reality is an artificial, computer-generated environment that can be experienced through special electronic equipment, such as headsets or gloves. It can create the illusion of being in another place or time. The SPMT Metaverse is a virtual world built on the blockchain.
- It allows players to interact and explore via VR and AR interfaces. Planets in the SPMT Metaverse are parallel to the real world. It typically contains many of the same features as the real world, such as buildings, streets, and landscapes. And VR/AR will help to explore it seamlessly.
+## - Akıllı sözleşme 
 
-## - Gamification
-Metaverse gamification uses gaming mechanics in non-gaming contexts to engage and motivate users. Gamification generally relies on feedback mechanisms, leaderboards, badges, and other rewards to engage users and encourage participation.
-Gamification in the SPMT Metaverse refers to gaming mechanics and design principles to engage and motivate players to achieve their goals. Gamification can add an extra dimension of fun and excitement to interactions while providing a more immersive experience. It can also help promote social connectedness and collaboration in the SPMT Metaverse and increase players’ motivation to learn and explore.
+Akıllı sözleşme, bir sözleşmenin müzakeresini veya ifasını kolaylaştırmayı, doğrulamayı veya yürürlüğe koymayı amaçlayan bir blok zinciri protokolüdür. Akıllı sözleşmeler, işlemlerin yürütülmesine izin verir Üçüncü şahıslar olmadan güvenilir. Ağ düğümleri bu işlemleri doğrular ve bunları Blockchain adı verilen dağınık bir kamu defterine kaydeder. Akıllı sözleşmeler Tüm işlemler ve süreçler, insan müdahalesini ortadan kaldıran SPMT Metaverse'dedir. Böylece parça parça komutları sorunsuz ve güvenli bir şekilde yürütür. Mn saniye.
 
 
+## - Yapay zeka 'AI', 
 
 
-## ✔️ Disclaimer
-The information contained in this document, Space Metaverse Token white paper, is provided exclusively for informational purposes without express or implied guarantees, including warranties of accuracy, completeness, or suitability for any particular purpose. This document is not intended to be and does not constitute trading, financial, investment, or other types of advice. Based on this document, you should not make any financial or investment choices without performing independent research and consulting a competent financial advisor.
-Some countries may have laws against trading or participation in crypto-related processes or activities. Find local laws about crypto-related activities in your locality before engaging in the Space Metaverse Token. No team member will be held responsible in case of any financial loss.
-Space Metaverse Tokens (NFTs), $SPMT tokens, and other crypto-asset trading have potential rewards and risks. It may not be appropriate for everyone to participate in the Space Metaverse Token economy and activities. Anyone thinking about investing should seek expert help. Finally, you accept that you are using this white paper and its information solely at your own risk.
+Resimler olarak bilinen bilgisayar tabanlı etkileşimli karakterleri oluşturmak ve kontrol etmek için meta veri depolarında kullanılır. avatar Bu avatarlar sanal dünyadaki diğer nesnelerle etkileşime girebilir. İstediği gibi görünmek ve hareket etmek için özelleştirilebilir Kullanıcı. Yapay zekanın kullanılması, meta veri depolarında daha gerçekçi ve gerçekçi etkileşimlere olanak tanır ve bu da iyileştirmeye yardımcı olabilir. Genel kullanıcı deneyimi. AI, SPMT Metaverse'de önemli bir rol oynayacak. Görüntü oluşturmak için kullanılacak Akıllı belirteç ve birçok yönün yönetimi sanal dünya. AI ayrıca gerçekçi ortamlar ve nesneler oluşturmak için kullanılacak ve SPMT Metaverse'i biraz benzer hale getirecektir. Harika gerçek dünya ortamı.
+
+
+## - Sanal Gerçeklik (VR/AR) 
+
+Sanal gerçeklik, özel elektronik ekipmanlarla deneyimlenebilen, bilgisayar tarafından oluşturulan yapay bir ortamdır. Kulaklık veya eldiven. Başka bir yerde veya zamanda olduğunuz yanılsamasını yaratabilir. SPMT Metaverse, üzerine inşa edilmiş sanal bir dünyadır. blok zinciri. Oyuncuların etkileşime girmesine ve keşfetmesine izin verirt VR ve AR arayüzleri. SPMT'deki gezegenler, gerçek dünyaya paralel olarak metaverseler. genellikle içerir Binalar, sokaklar ve manzaralar gibi gerçek dünyadakiyle aynı özelliklerin çoğu. Ve VR/AR onu keşfetmeye yardımcı olacak sorunsuz.
+
+
+## - Oyun oynamak 
+
+Metaverse oyunlaştırma teknolojisi, kullanıcıların ilgisini çekmek ve motive etmek için oyun dışı bağlamlarda oyun mekaniklerini kullanır. o onaylar Oyunlaştırma genellikle kullanıcıların ilgisini çekmek ve katılımı teşvik etmek için yorum mekanizmaları, skor tabloları, rozetler ve diğer ödüller için geçerlidir. SPMT Metaverse'deki oyunlaştırma şu anlama gelir:Oyuncuları hedeflerine ulaşmaları için harekete geçirmek ve motive etmek için oyun mekanizmaları ve tasarım ilkeleri. ekleyebilir Oyunlaştırma, daha sürükleyici bir deneyim sağlarken etkileşimlere ekstra bir eğlence ve heyecan boyutu ekler. Ayrıca bağlanmayı teşvik etmeye yardımcı olabilir SPMT Metaverse'deki sosyal ve işbirliği, oyuncuların öğrenme ve keşfetme motivasyonunu artırır.
+
+
+## ✔️ Sorumluluk reddi beyanı
+
+Bu belgedeki bilgiler, yani Space Metaverse Code White Paper, garanti olmaksızın yalnızca bilgi amaçlı olarak sağlanmaktadır. doğruluk, eksiksizlik veya belirli bir amaca uygunluk garantileri dahil olmak üzere açık veya zımni. Bu belgenin amacı değildir ve teşkil etmez. İş, finans veya yatırım tavsiyesi veya diğer tavsiye türleri. Bu belgeye dayanarak, herhangi bir finansal veya bağımsız araştırma yapmadan ve yetkin bir finansal danışmana danışmadan yatırım. Bazı ülkelerde ticarete veya katılmaya karşı yasalar olabilir.Kripto para birimiyle ilgili işlemler veya faaliyetler. yasaları ara Space Metaverse koduna girmeden önce bölgenizdeki yerel kripto ile ilgili faaliyetler. Hiçbir üye yüklenmeyecek Herhangi bir maddi kayıp durumunda ekip sorumludur. Kullanılamayan Uzay Metaverse Simgeleri (NFT'ler), USD SPMT Simgeleri ve Diğer Varlık Ticareti Kriptoların potansiyel ödülleri ve riskleri vardır. Herkesin Space Metaverse Token ekonomisine ve faaliyetlerine katılması uygun olmayabilir. Yatırım yapmayı düşünen herkesUzman yardımı istiyoruz. Son olarak, bu teknik incelemeyi kullandığınızı kabul ediyorsunuz Bilgilerinin riski yalnızca size aittir.
 
 
 
 
 ## Support
 
-For support, email support@spacemetatoken.com or join our Telegram channel.
+For support, contact us => support@spacemetatoken.com or join our Telegram channel.
