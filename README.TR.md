@@ -148,7 +148,7 @@ Bir kripto cüzdan, kripto para birimi için dijital bir depolama ortamıdır. �
 
 •	Bu gezegenler kişisel veya ticari kullanım için geliştirilebilir veya satılabilir.
 
-•	Her NFT gezegeninin ön satış fiyatı 0.25 ETH ve birincil satış fiyatı ETH 0.3'tür.
+•	Her NFT gezegeninin ön satış fiyatı $0.25  ve birincil satış fiyatı $0.3'tür.
 
 •	Popüler gezegenler, daha az bilinen gezegenlerle aynı fiyata sahiptir.Popüler gezegenlerin elde edilmesi ilk gelene ilk hizmet esasına göredir.
 
@@ -167,7 +167,7 @@ Bir kripto cüzdan, kripto para birimi için dijital bir depolama ortamıdır. �
 
 •	Her bir SPMT otobüs servisinin fiyatı, tasarımına, hızına ve yolcu kapasitesine göre değişmektedir.
 
-•	Fiyat aralıklarından ETH 0.15 ila ETH 0.05.
+•	Fiyat aralıklarından $0.15 ila $0.05.
 
 •	SPMT taşıma hizmeti, taşıma hizmeti veya SPMT Metaverse'deki diğer oyunculara araç kiralama.
 
@@ -180,7 +180,7 @@ Bir kripto cüzdan, kripto para birimi için dijital bir depolama ortamıdır. �
 
 •	Her bir SPMT Emlak aracının fiyatı, kuruluşa göre değişir.
 
-•	fiyat aralıklarının 0,03 ila 0,01'i.
+•	fiyat aralıklarının $0,03 ila $0,01'i.
 
 •	Bu SPMT emlak araçları, bir ücret karşılığında diğer oyunculara kiralanabilir.
 
@@ -191,7 +191,7 @@ Bir kripto cüzdan, kripto para birimi için dijital bir depolama ortamıdır. �
 
 •	Her madencilik aracının fiyatı değişir Faydaya dayalı SPMT.
 
-•	Fiyat 0,0008 ETH ile 0,0001 ETH arasında değişmektedir.
+•	Fiyat $0,0008 ile $0,0001 arasında değişmektedir.
 
 •	Bu SPMT madencilik araçları, bir ücret karşılığında diğer oyunculara kiralanabilir
 
