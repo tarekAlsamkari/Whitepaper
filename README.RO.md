@@ -162,7 +162,7 @@ Colecția de NFT-uri SPMT constă din 40.000 de NFT, aceste NFT-uri sunt clasifi
 
 •	Aceste planete pot fi dezvoltate și vândute sau utilizate pentru atracție turistică;
 
-•	Fiecare Planet NFT are un preț de prevânzare de 0,25 eth și un preț de vânzare principal de 0,3 eth;
+•	Fiecare Planet NFT are un preț de prevânzare de $0,25 și un preț de vânzare principal de $0,3;
 
 •	Planetele populare au același preț cu cele mai puțin populare și achiziționarea de planete populare este pe primul venit;
 
@@ -181,7 +181,7 @@ Colecția de NFT-uri SPMT constă din 40.000 de NFT, aceste NFT-uri sunt clasifi
 
 •	Prețul fiecărei navete SPMT variază în funcție de design, viteză și capacitate;
 
-•	Prețul variază de la 0,05 eth la 0,15 eth;
+•	Prețul variază de la $0,05 la $0,15;
 
 •	O navetă SPMT poate fi comercializată prin oferirea unui serviciu de transport sau închiriere de vehicule către alți jucători din metaversul SPMT;
 
@@ -194,7 +194,7 @@ Colecția de NFT-uri SPMT constă din 40.000 de NFT, aceste NFT-uri sunt clasifi
 
 •	 Prețul fiecărui instrument SPMT Real Estate variază în funcție de utilitate;
 
-•	 Prețul variază de la 0,01 eth la 0,03 eth;
+•	 Prețul variază de la $0,01 la $0,03;
 
 •	 Aceste instrumente SPMT Real Estate pot fi închiriate altor jucători pentru un preț.
 
@@ -205,7 +205,7 @@ Colecția de NFT-uri SPMT constă din 40.000 de NFT, aceste NFT-uri sunt clasifi
 
 •	 Prețul fiecărui instrument SPMT Mining variază în funcție de utilitate;
 
-•	 Prețul variază de la 0,0001 eth la 0,0008 eth;
+•	 Prețul variază de la $0,0001 la $0,0008;
 
 •	 Aceste instrumente SPMT Mining pot fi închiriate altor jucători pentru un preț.
 
