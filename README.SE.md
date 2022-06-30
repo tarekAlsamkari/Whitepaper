@@ -167,7 +167,7 @@ SPMT NFTs samling består av 40 000 NFTs; dessa NFT:er är kategoriserade i fyra
 
 •	Dessa planeter kan utvecklas för personligt eller kommersiellt bruk eller säljas.
 
-•	Varje planet NFT har ett förköpspris på 0,25 ETH och ett nedsatt pris på $0,3.
+•	Varje planet NFT har ett förköpspris på $0,25 och ett nedsatt pris på $0,3.
 
 •	Populära planeter har samma pris som mindre populära, och att skaffa populära planeter är först till kvarn-principen.
 
