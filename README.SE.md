@@ -14,10 +14,12 @@
   </a>
 </div>
 <h1 align="center">Space Metaverse Token</h1>
-<H2 align="center">‘English version’</H2>
+<H2 align="center">‘Swedish version’</H2>
 
 <em>Read this in other languages: 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.RO.md">Romanian</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.EN.md">English</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.SE.md">Swedish</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ITL.md">Italian</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.AR.md">Arabic</a>
@@ -25,63 +27,60 @@
 
 
 
-## 🚀 Abstract
-Hundreds of years from now, humankind will have developed advanced technology capable of transporting them and sustaining them on other planets. Countries worldwide have come together to create a single agency that oversees all exploration; the agency is named Space Metaverse Token (SPMT).
-SPMT is a one-of-a-kind metaverse gaming platform where you can explore simulated planets and experience immersive reality. You may find tremendous opportunities for financial gain in the game, all while exploring and having fun in the metaverse.
-SPMT is an exploration of the universe and the next big Play2Earn (P2E) game. SPMT is set to launch on the Binance Smart Chain network and offers investors various opportunities to earn money by acquiring private individual planets, developing them, and creating a micro-economy. The first collection of 15,000 SPMT Planet NFTs will be launched, each with unique characteristics and stats. The SPMT cryptocurrency and BEP-20 token, $SPMT, will be used to decentralize the digital galaxy.
-This white paper provides a high-level overview of the SPMT project. The main focus is on the intriguing blockchain technology used to establish a virtual game metaverse. This is not a technical white paper; instead, it is a general audience, gamers, and metaverse enthusiasts' introduction to SPMT Project.
+## 🚀 Abstrakt
+
+Om hundratals år kommer mänskligheten att ha utvecklat avancerad teknologi som kan överföra och förvara den till andra planeter. Länder runt om i världen har kommit överens om att skapa en enda byrå som övervakar all utforskning. Byrån kallas för Space Metaverse Token och förkortas med SPMT. Den är en unik spelplattform där du kan utforska simulerade planeter och uppleva en fängslande verklighet. Samtidigt som du utforskar och njuter av metaverser kan du även hitta enorma möjligheter att tjäna pengar i spelet.  SPMT är en utforskning av universum och ett spel för att erhålla vad som kallas Play2Earn. SPMT är uppbyggd på Binance Smart Chain-nätverket och erbjuder användarna olika möjligheter att tjäna pengar genom att förvärva privata individuella planeter, utveckla dem och skapa en mikroekonomi. Den första samlingen av 15 000 SPMT planeter NFTs kommer att lanseras, var och en av dem präglas av unika egenskaper och statistiska detaljer. Kryptovalutan SPMT och BEP20, $SPMT kommer att användas för att decentralisera det digitala stjärnsystemet. Syftet med denna rapport är att ge en överblick över projektet på en avancerad nivå. Huvudfokus ligger på den intressanta blockkedje teknologin som används för att skapa en virtuell spelmetavers. Denna är inte en teknisk uppsats, utan den presenteras för både den globala publiken och de entusiastiska aktörerna i SPMT-projektet.
 
 
-## 🚀 Introduction
-"The metaverse" has been turned into a buzzword by executives, analysts, and investors seeking to capitalize on this emerging technology. The metaverse is a futuristic virtual world where humans can work, play, rest, socialize, etc. Virtual Reality (VR) and Augmented Reality (AR) technologies are anticipated to seamlessly combine the virtual and real worlds in the growing digital environment. The metaverse will alter our perception of the internet.
-Ubiquitous 5G high-speed internet access, Web 3.0, virtual reality, augmented reality, blockchain technology, NFTs, and growing markets like remote work and online socializing are all helping to pave the way for the metaverse.
-According to Gartner, Inc., the number of individuals spending at least one hour every day in the metaverse for work, retail, education, social, or entertainment will increase by 25% in 2026. And according to Morgan Stanley, overall VR AR expenditures worldwide are expected to expand at a CAGR of 57 percent, from $12 billion in 2020 to $72.8 billion in 2024. Another report claims that the metaverse or virtual worlds, might be worth $8 trillion in revenue. In conclusion, experts estimate that the metaverse will be worth $1 trillion additional value per year. This is why investors, entrepreneurs, and technology corporations are vying for a piece of the rising tech market that creates significant opportunities.
-Metaverse is working on further combining the high-speed web with tangible sensory inputs to create more highly immersive digital environments. The immersive three-dimensional screen layer and integrated tactile inputs across a whole range of sense organs are used to create these virtual experiences. This virtual universe will generate a slew of new apps and enterprises and new career opportunities.
-The SPMT team believes that the metaverse is already here. We are creating the SPMT Metaverse to ensure you are positioned for entertainment and financial success with many opportunities to earn in our metaverse.
+## 🚀 Introduktion
+ 
+Metaversen har förvandlats till ett trendord av chefer, analytiker och investerare som försöker dra nytta av denna framväxande teknologin. Metaversen är en framtidsbaserad virtuell värld där människor kan arbeta, leka, vila, umgås, etc. Virtual Reality med förkortning VR och Augmented Reality som förkortas med AR teknologier förväntas på ett smidigt sätt kombinera den virtuella och verkliga världen i den växande digitala miljön. Metaversen kommer att förändra vår uppfattning om internet. Ubiquitous 5G höghastighetsinternet åtkomst, Web 3.0, virtuell verklighet, augmented reality, blockkedjeteknik, NFTs och växande marknader som distansarbete och socialt umgänge på nätet tillåter alla till att skapa vägar för metaversen. Enligt Gartner, Inc. kommer antalet individer som tillbringar minst en timme varje dag i metaversen för flera syften som bland annat, arbete, detaljhandel, utbildning, socialt eller underhållning att öka med 25 % år 2026. Vidare visar Morgan Stanley att totala VR AR-utgifter världen över förväntas expandera med en genomsnittlig årlig tillväxt på 57 %, från 12 miljarder amerikansk dollar 2020 till 72,8 miljarder amerikansk dollar år 2024. En annan rapport hävdar att metaverse eller virtuella världar kan vara värda 8 biljoner amerikanska dollar i intäkter. Sammanfattningsvis uppskattar experter att metaversen kommer att vara värd 1 biljon dollar mervärde per år. Detta är för att investerare, entreprenörer och teknikföretag tävlar om en del av den växande teknikmarknaden som skapar betydande möjligheter. Metaverse arbetar på att ytterligare kombinera höghastighetswebben med påtagliga sensoriska input för att skapa mer uppslukande digitala miljöer. De uppslukande tredimensionella skärmsikten och de integrerade taktila inmatningar över en hel rad sinnesorgan används för att skapa dessa virtuella upplevelser. Detta virtuella universum kommer att generera en mängd nya appar och företag och nya karriärmöjligheter. SPMT-teamet tror att metaversen är redan här. Vi skapar SPMT Metaverse för att säkerställa att du är positionerad för underhållning och ekonomisk framgång med många möjligheter att tjäna i vår metaverse.
 
 
-## 🚀 The Blockchain Technology
 
-The blockchain is a digital ledger of all cryptocurrency transactions. It is constantly growing as "completed" blocks are added with new records. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data. Crypto nodes use the blockchain to differentiate legitimate crypto transactions from attempts to re-spend coins that have already been spent elsewhere. The blockchain confirms transactions to the rest of the network as having taken place. It also acts as a permanent record of these transactions. The integrity and chronological order of the blockchain are enforced with cryptography. The blockchain is a distributed database. Each node (computer) on the network possesses a complete and up-to-date copy of the blockchain. Thus, it's the safest way to verify transactions between two parties and establish their legitimacy.
+## 🚀 Blockkedjetekniken
+
+Blockkedjan är en digital redovisning av alla kryptovaluta transaktioner. Det växer hela tiden i takt med att "avslutade" block tillkommer med nya rekord. Varje block innehåller en kryptografisk återanvändning av föregående block, en tidsstämpel och transaktionsdata. Kryptonoder använder blockkedjan för att särskilja äkta krypto transaktioner från försök att återanvända mynt som redan har spenderats någon annanstans. Blockkedjan säkerställer att transaktioner till samtliga delar i nätverket har ägt rum. Den fungerar också som en evig registrering av dessa transaktioner. Blockkedjans integritet och kronologiska ordning upprätthålls med kryptografi. Blockkedjan är en distribuerad databas. Varje nod (dator) i nätverket har en komplett och uppdaterad kopia av blockkedjan. Det är alltså det säkraste sättet att verifiera transaktioner mellan två parter och fastställa deras legitimitet.
 
 
 ## 🚀 Web3.0
 
-The decentralized web, also known as Web 3.0, is a new version of the internet based on blockchain technology. It envisions a decentralized, community-driven internet where people control their data and where fascinating creative content is accessible and available to everyone. It is becoming clear that the Metaverse is Web 3.0's natural user interface. It provides individuals with a fun, gamified, and practical method to interact with a decentralized, blockchain-based internet.
+Den decentraliserade webben, även känd som Web 3.0, är en ny version av internet baserad på blockkedjeteknik. Den föreställer sig som ett decentraliserat, gemenskapsbaserat internet där människor kontrollerar sin data och där fascinerande och kreativt innehåll är tillgängligt för alla. Det blir tydligt att metaverse är Web 3.0 naturliga användargränssnitt. Det ger individer en rolig, gamifierad och praktisk metod att interagera med ett decentraliserat blockkedje. 
 
 
-## 🚀 Open Metaverse
-Interoperability is the closest word to describe an open metaverse. Still, the open metaverse is more than just interconnected metaverses. The metaverse is a virtual world where users can manage their transactions, assets, and data. Instead of creating an open, decentralized Metaverse, big tech focuses on expanding their own strictly controlled assets, locking everyone into their product, and charging whatever they want. But with the open metaverse — which is characterized by open-source software and open standards, the community of users has the power; this is a retort to the mega-corporations that control the majority of the world's digital-value-creating assets and data.
-The open metaverse is made possible with a blockchain bridge. A blockchain bridge, also referred to as a token bridge, is a link that allows tokens and arbitrary data to be transferred from one blockchain to another. The bridges rely on a single chain to prove token ownership (or numerous tokens). They then send this data to other connected blockchains, utilizing it on another chain. This implies that two or more blockchains with distinct underlying protocols can communicate and collaborate safely and swiftly. 
-The SPMT project is built for the open metaverse; players will be able to securely transfer digital assets in and out of the SPMT metaverse in the later stage of the project. Adopting the open metaverse concept for the SPMT project aligns with the next version of the internet (Web3.0), reinforcing true decentralization.
+## 🚀 Den Öppna Metaverse
 
-## 🚀 Mission and Vision Statement 
-
-Our mission is to work with our community to create a system incorporating economics, games, and NFTs. The vision is to integrate NFT, gaming, and metaverse to reach an enjoyable, profitable, and global level of technology. We foresee a digital universe that grows with time and usage and an economy that drives the game and raises the value of $SPMT due to more user engagement.
+Interoperabilitet är det ord som närmast beskriver en öppen metavers. Ändå är den öppna metaversen mer än bara sammankopplade metaverser. Metaverse är en virtuell värld där användare kan hantera sina transaktioner, tillgångar och data. Istället för att skapa ett öppet, decentraliserat Metaverse fokuserar big tech på att utöka sina egna strikt kontrollerade tillgångar, låsa in alla i sin produkt och ladda vad de vill. Men med den öppna metaversen – som kännetecknas av programvara med öppen källkod och öppna standarder, har samtliga användare makten; detta är en replik till mega företagen som kontrollerar majoriteten av världens digitala värdeskapande tillgångar och data. Den öppna metaversen möjliggörs med en så kallad blockchain-bro. En blockchain-bro, även kallad en token-bro, är en länk som gör att tokens och godtycklig data kan överföras från en blockchain till en annan. Broarna förlitar sig på en enda kedja för att bevisa tokenägandet (eller flera tokens). Sedan skickar de denna data till andra anslutna blockkedjor och använder den på en annan kedja. Detta innebär att två eller flera blockkedjor med distinkta underliggande protokoll kan kommunicera och samarbeta säkert och snabbt. SPMT-projektet är byggt för den öppna metaversen; spelare kommer säkert att kunna överföra digitala tillgångar in och ut ur SPMT-metaversen i ett senare skede av projektet. Det öppna metaverse-konceptet för SPMT-projektet är i linje med nästa version av internet (Web3.0), vilket förstärker verklig decentralisering.
 
 
-## 🚀 The SPMT Project
-The SPMT is the first blockchain project to implement meta-tourism fully controlled by players, where creativity is only limited to the players' intuition - A galaxy of endless possibilities and opportunities. 
-The SPMT project is for everyone; investors, gamers, explorers, crypto enthusiasts, and even casual internet users. At the initial stage of the project, the SPMT team has identified and named 15,000 habitable planets ready for sale. Once purchased, everything needed to develop these planets are also available as NFTs, which can be
+## 🚀 Mission och vision
 
-•	Minted and uploaded into the SPMT Metaverse
-
-•	Purchased from an in-built marketplace in the SPMT Metaverse
-
-•	Purchased from peer SPMT Metaverse players (P2P)
-
-•	Or import from another Metaverse (interoperability)
-
-The SPMT project employed a gamified approach to keep the fun alive. On entering the SPMT Metaverse, players can decide to float to their planet or take a space shuttle – which is faster. Individual players in the SPMT Metaverse can own these space shuttles for personal use or commercial transportation – which is one of the numerous ways of earning in the SPMT Metaverse. Also, there are free planets to explore for players who can’t afford to pay the tourism fee.
+Vårt uppdrag är att arbeta med vår gemensamhet för att skapa ett system som innehåller ekonomi, spel och NFT. Visionen är att integrera NFT, spel och metaverse för att nå en njutbar, lönsam och global tekniknivå. Vi förutser ett digitalt universum som växer med tiden genom användningen och en ekonomi som driver spelet och höjer värdet på $SPMT på grund av en utökad engagemang hos användare.
 
 
+## 🚀 SPMT-projektet
+SPMT är det första blockchain-projektet för att implementera metaturism helt kontrollerad av spelare, där kreativiteten bara är begränsad till spelarnas intuition - En galax av oändliga möjligheter och äventyr. SPMT-projektet är för alla; investerare, spelare, upptäcktsresande, krypto-entusiaster och till och med tillfälliga internetanvändare. I det inledande skedet av projektet har SPMT-teamet identifierat och namngett 15 000 drägliga planeter redo för försäljning. När det väl köpts finns allt som behövs för att utveckla dessa planeter också tillgängligt som NFT, vilket kan bland annat vara:
 
-## 🚀 $SPMT Utility Token
-$SPMT token is the utility token used for transactions and other processes in the SPMT project and metaverse. SPMT cryptocurrency is an BEP-20 token on the BSC network.
-BEP-20 tokens are digital assets that use the Binance Smart Chain blockchain to represent a particular ownership stake or entitlement in a blockchain project. These tokens are created and distributed using a smart contract, which allows for a more streamlined and automated process than traditional fundraising methods. BEP-20 tokens can represent various things, including voting rights, shares in a company, or access to a particular service – in this case, the SPMT Metaverse.
+•	Minskade och laddade upp till SPMT Metaverse;
 
-## 🚀 Tokenomics and Distribution
-The total supply of $SPMT tokens will be pegged at 10,000,000,000. Each token is valued at $0.00025. Tokens will be sold through an ICO and soon be available on Launchpad. The tokens will be distributed in the following proportion among the major stakeholders:
+•	Köpt från en inbyggd marknadsplats i SPMT Metaverse;
+
+•	Köpt från peer SPMT Metaverse-spelare (P2P);
+
+•	Eller importera från en annan Metaverse (interoperabilitet).
+
+SPMT-projektet använde ett gamifierat tillvägagångssätt för att hålla det roliga vid liv. När spelarna går in i SPMT Metaverse kan de bestämma sig för att flytta till sin planet eller ta en rymdfärja – vilket är snabbare. Enskilda spelare i SPMT Metaverse kan äga dessa rymdfärjor för personligt bruk eller kommersiell transport – vilket är ett av de många sätten att tjäna pengar i SPMT Metaverse. Det finns också gratis planeter att utforska för spelare som inte har råd att betala turist avgifter.
+
+
+
+## 🚀 $SPMT Verktygsikon
+
+$SPMT-token är verktygstoken som används för transaktioner och andra processer i SPMT-projektet och metaverse. SPMT kryptovaluta är en BEP-20-token på BSC-nätverket. BEP-20-tokens är digitala tillgångar som använder Ethereum-blockkedjan för att representera en viss ägarandel eller rättighet i ett blockkedje projekt. Dessa tokens skapas och distribueras med hjälp av ett smart kontrakt, vilket möjliggör en mer strömlinjeformad och automatiserad process än traditionella insamlingsmetoder. BEP-20-tokens kan representera bland annat, rösträtt, aktier i ett företag eller tillgång till en viss tjänst – i det här fallet är det SPMT Metaverse.
+
+
+## 🚀 Tokenomics och distribution
+
+Det totala utbudet av $SPMT-tokens kommer att kopplas till 10 000 000 000. Varje token är värd 0,00025 USD. Tokens kommer att säljas via en ICO som är en förkortning till det engelska uttrycket initial coin offering, och snart kommer de vara tillgängliga på en startplatta.Tokens kommer att fördelas i följande proportioner bland de största intressenterna: 
 
 
 | Stakeholder | Percentage    | Amount               | Value                |
@@ -94,175 +93,192 @@ The total supply of $SPMT tokens will be pegged at 10,000,000,000. Each token is
 
 
 
-## 🚀 SPMT Metaverse Experiences
+## 🚀 SPMT Metaverse-upplevelser
 
-The SPMT Metaverse is full of immersive experiences to keep players engaged. These experiences allow players to interact and engage in three-dimensional space - allowing users to explore new environments, socialize with others, and participate in activities.
-
-
-## - Tourism
-Meta-tourism is a relatively new term used to describe the phenomenon of people traveling to virtual worlds, or "metaverses," for tourism. These metaverses can be accessed through various digital platforms, such as video games, social networks, or specialized websites. In recent years, there has been an increase in people who visit metaverses for recreational purposes.
-In the SPMT Metaverse, planet owners can create fictional landscapes or scenes based on real-life locations. Metaverse tourists typically visit these virtual landscapes to experience something phenomenal.
+SPMT Metaverse är full av uppslukande upplevelser för att hålla spelarna engagerade. Dessa upplevelser gör det möjligt för spelare att interagera och engagera sig i tredimensionellt utrymme - så att användare kan utforska nya miljöer, umgås med andra och delta i aktiviteter.
 
 
 
-## - Mining
-There are $SPMT tokens hidden under the surface of each of the planets in the SPMT Metaverse; planet owners can dig their planets, mine these tokens, and have them as a reward for their effort. The mined $SPMT tokens immediately reflect on the player's digital balance inside the wallet. The tokens can then be converted into cash or exchanged for other cryptocurrencies on decentralized exchanges. 35% of the total $SPMT token supply is dedicated to this course.
-The SPMT metaverse provides essential mining tools such as picks, shovels, and axes but manually mining tokens on SPMT planets can be a daunting task and consumes a lot of time; this is why there are premium mining tools that planet owners can acquire to mine resources faster on their planets. Such tools include scanners, excavators, drills, dozers, etc. These tools are in the form of an NFT, and their value varies based on their efficiency; they can be resold if the owner no longer finds a use for them.
+## - Turism
+
+Metaturism är en relativt ny term som används för att beskriva fenomenet med människor som reser till virtuella världar, eller "metaverser", för turism. Dessa metaverser kan nås via olika digitala plattformar, såsom videospel, sociala nätverk eller specialiserade webbplatser. Under de senaste åren har det skett en ökning av människor som besöker metaverser i underhållningssyfte. I SPMT Metaverse kan samtliga planetägare skapa fiktiva landskap eller scener baserat på verkliga platser. Metaverse-turister besöker vanligtvis dessa virtuella landskap för att få uppleva en fantastisk upplevelse.
 
 
-## - Development
-Planet owners must develop their planets to make them attractive and worthy of visitor exploration. Developing the planets depends on individual owners of the planets; they can build various real estate assets for personal or business purposes. They can create assets for rent or buy assets to resell when their value rises.
-There are tools to speed up the development process, and ready-made real estate assets are available in the SPMT in-house marketplace inside the metaverse. There will also be a provision for planet owners to create their complete real-estate assets from ordinary digital files, mint them into NFTs and upload it into the SPMT Metaverse. But this will be in the later stage of the project. Meanwhile, they can acquire tools to build or purchase the assets as a whole from the marketplace or other players in the metaverse.
-Furthermore, developing SPMT planets open opportunities for civil engineering and other professionals in the construction industry. Planet owners can hire professionals to build unique and fascinating structures on their planets.
+
+## - Nedbrytning "Mining"
+  
+Det finns $SPMT-tokens gömda under ytan på var och en av planeterna i SPMT Metaverse; varje planetägare kan gräva ner sina planeter, bryta ned dessa tokens och få dem som en belöning för deras ansträngning. De minerade $SPMT-tokensen reflekterar omedelbart på spelarens digitala saldo inuti plånboken. Tokens kan sedan omvandlas till kontanter eller bytas ut mot andra kryptovalutor på decentraliserade börser. 35 % av det totala utbudet av $SPMT-token är tillägnat denna kurs. SPMT-metaversen tillhandahåller viktiga gruvverktyg som hackor, spadar och yxor, men att manuellt bryta tokens på SPMT-planeter kan vara en skrämmande uppgift och tar mycket tid; det är därför det finns premium gruvverktyg som planetägare kan skaffa för att bryta resurser snabbare på sina planeter. Sådana verktyg inkluderar skannrar, grävmaskiner, borrar, schaktmaskiner osv. Dessa verktyg är i form av en NFT, och deras värde varierar beroende på deras effektivitet; de kan säljas vidare om ägaren inte längre kan finna användning för dem.
 
 
-## - Trading
-In the SPMT Metaverse, trading is a process of transferring virtual items from one user to another. This can be done for various reasons, including exchanging virtual items for virtual tokens, trading one type of virtual item for another, or simply giving the item away as a gift. The process of trading in the SPMT Metaverse is similar to that of trading in the real world. Each party agrees to the terms of the trade and then completes the exchange.
-All transactions in the SPMT Metaverses will be executed with $SPMT tokens – the project's utility token. Successful transactions immediately reflet in the transactors' wallets. The history of past transactions can also be found in the wallet.
+
+## - Utveckling
+
+Alla planetägare måste utveckla sina planeter för att göra dem attraktiva och värda att locka besökarna. Att utveckla planeterna beror på individuella ägare av planeterna; de kan bygga olika fastighetstillgångar för personliga eller affärsändamål. De kan skapa tillgångar för uthyrning eller köpa tillgångar för att sälja vidare när deras värde stiger. Det finns verktyg för att påskynda utvecklingsprocessen, och färdiga fastighetstillgångar finns tillgängliga på SPMT:s interna marknadsplats i metaversen. Det kommer också att finnas en bestämmelse för planetägare att skapa sina fullständiga fastighetstillgångar från vanliga digitala filer, skapa dem i NFT:er och ladda upp dem till SPMT Metaverse. Men detta kommer att vara i det senare skedet av projektet. Under tiden kan de skaffa verktyg för att bygga eller köpa tillgångarna som helhet från marknaden eller andra aktörer i metaversen. Dessutom öppnar utvecklingen av SPMT-planeter möjligheter för civilingenjörer och andra yrkesverksamma inom byggbranschen. Planetägare kan anlita proffs för att bygga unika och fascinerande strukturer på sina planeter.
 
 
-## - User-Generated Experiences
-User-generated SPMT Metaverse experiences are limitless because different players have different ideas of what they will turn their planets to.
+
+## - Handel
+
+I SPMT Metaverse är handel en process för att överföra virtuella föremål från en användare till en annan. Handeln kan göras av olika anledningar, inklusive att byta ut virtuella föremål mot virtuella tokens, byta ut en typ av virtuella föremål mot en annan eller helt enkelt ge bort föremålet som gåva. Processen för handel med SPMT Metaverse liknar den för handel i den verkliga världen. Varje part godkänner villkoren för handeln och slutför bytet. Alla transaktioner i SPMT Metaverses kommer att utföras med $SPMT-tokens – projektets verktygstoken. Framgångsrika transaktioner återkommer omedelbart i transaktörernas plånböcker. Historiska transaktioner finns också med i plånboken.
 
 
-## 🚀 SPMT Features
+
+## - Användargenererade upplevelser
+
+Användargenererade SPMT Metaverse-upplevelser är obegränsade eftersom olika spelare har olika idéer om vad de kommer att omvandla sina planeter till.
+
+
+## 🚀 SPMT-egenskaper
 
 ## - NFTs
-NFT is a key concept in the metaverse ecosystem, allowing users to own virtual products like planets, real-estate properties, digital items such as space shuttles, mining and construction tools, and even accessories.
-NFTs are built on blockchain technology and offer full ownership rights. For instance, if you own a planet in the SPMT Metaverse, you will receive an NFT as a deed to the virtual property. This indicates you are the legitimate owner and have exclusive access to the planet in the SPMT Metaverse and the ability to grant others access.
 
-## - Community
-The most significant aspect of the SPMT project is the community. In the SPMT project, the community is essential since it facilitates supporters and connections around the world. The SPMT Community also serves several objectives, including associating based on shared interests and networking in the SPMT metaverse and contributing financial support for the project's implementation through token and NFT purchases. The SPMT project aims to reach at least 100 million community members worldwide.
+NFT är ett nyckelbegrepp i det metaversala ekosystemet, som tillåter användare att äga virtuella produkter som planeter, fastigheter, digitala föremål som rymdfärjor, gruv- och konstruktionsverktyg och till och med tillbehör. NFT:er bygger på blockchain-teknik och erbjuder full äganderätt. Till exempel, om du äger en planet i SPMT Metaverse kommer du att få en NFT som ett avtal till den virtuella egendomen. Detta indikerar att du är den legitima ägaren och har exklusiv tillgång till planeten i SPMT Metaverse och möjligheten att ge andra åtkomst.
+
+## - Samhället (Community)
+
+Den viktigaste aspekten av SPMT-projektet är samhället (Community). I SPMT-projektet är samhället väsentligt eftersom det underlättar och supportrar olika kontakter runt om i världen. Gemenskapen i SPMT tjänar också flera mål, inklusive associering baserat på delade intressen och nätverkande i SPMT-metaversen, vilket bidrar med ekonomiskt stöd för projektets genomförande genom token- och NFT-köp. SPMT-projektet syftar till att nå minst 100 miljoner samhällsmedlemmar över hela världen.
 
 
-## - Virtual Economy
-A virtual economy operates in a fantasy environment, generally one that is virtual. These economies are primarily seen in multi-user, real-time online virtual worlds. Virtual currencies exist in virtual economies. While these virtual currencies cannot usually be exchanged for real-world currency in a bank or a change bureau, they can be traded on decentralized exchanges or among users' peers.
-The virtual economy in the SPMT is similar to a real one, albeit there are notable distinctions; for example, no need to pay taxes or feeding expenses in the metaverse. However, because players engage and participate in the SPMT Metaverse activities, some factors, such as the need to pay for services, acquire digital assets, explore particular planets, etc., necessitate a payment. And the payments are processed with the $SPMT cryptocurrency.
 
-## - Staking
-Staking on the SPMT blockchain is the process of committing your $SPMT cryptocurrency assets to support and confirm transactions on the SPMT network. Staking is how SPMT verifies transactions and lets $SPMT holders earn rewards on their assets. Because the SPMT token employs proof-of-stake to validate transactions, it permits staking. The proof-of-stake model uses less energy than the traditional proof-of-work model.
-Staking is an excellent strategy to earn passive income with your $SPMT tokens, mainly because $SPMT pays out high-interest rates for staking. SPMT's annual staking interest rate is as high as 7%.
+## - Virtuell ekonomi
+
+En virtuell ekonomi som fungerar i en fantasimiljö, vanligtvis en som är virtuell. Dessa ekonomier ses främst i virtuella online-världar med flera användare i realtid. Virtuella valutor finns i virtuella ekonomier. Även om dessa virtuella valutor vanligtvis inte kan växlas mot verklig valuta i en bank eller en växlingsbyrå, kan de handlas på decentraliserade börser eller bland användarnas kamrater. Den virtuella ekonomin i SPMT liknar en verklig, även om det finns anmärkningsvärda skillnader; till exempel man behöver inte betala skatt eller utmaningskostnader i metaversen. Men eftersom spelare engagerar sig och deltar i SPMT Metaverse-aktiviteter, kräver detta vissa faktorer, såsom behovet av att betala för tjänster, förvärva digitala tillgångar, utforska vissa planeter osv. Det krävs bara en betalning, och betalningarna behandlas med $SPMT-krypteringsvalutan.
+
+
+## - Satsning "Staking"
+
+Att satsa på SPMT-blockkedjan är processen att binda dina $SPMT-kryptovalutatillgångar för att stödja och bekräfta transaktioner på SPMT-nätverket. Satsningen är hur SPMT verifierar transaktioner och låter $SPMT-innehavare tjäna belöningar på sina tillgångar. Eftersom SPMT-tokenen använder proof-of-stake för att validera transaktioner, tillåter den insats. proof-of-stake-modellen använder mindre energi än den traditionella proof-of-work-modellen. Satsning är en utmärkt strategi för att tjäna passiv inkomst med dina $SPMT-tokens, främst för att $SPMT betalar ut höga räntor för insats. SPMT:s årliga insatsränta är så hög som 7%.
 
 ## - DAO
-SPMT DAO is a way of organizing how the project is run. DAO stands for Decentralized Autonomous Organization, and it is responsible for key decision-making. This means that there is no single person in charge; instead, decisions concerning the SPMT project are made by all participants of the SPMT DAO. The decision is made by allowing every participant in the DAO to vote for or against the decision.
-The criteria for participating in the SPMT DAO is acquiring one of the 15,000 SPMT Planet NFTs. The right to participate in the SPMT DAO is only reserved for the current holder of the Planet NFT. However, the DAO right is transferable if the current holder transfers it to another person.
 
-## - Wallet
-A crypto wallet is a digital storage medium for cryptocurrencies. The Wallet stores the public and private keys needed to access and spend the $SPMT tokens. The tokens are stored in the wallet's address, a unique string of alphanumeric characters. Currently, we'll be utilizing generic wallets that support BEP-20 tokens, such as Atomic Wallet, Trust Wallet, MetaMask, etc. Later, we will develop our custom SPMT Wallet. The SPMT Wallet is a multi-currency wallet which means it supports other popular cryptocurrencies such as Bitcoin, Ethereum, etc.
+SPMT DAO är ett sätt att organisera hur projektet drivs. DAO står för Decentralized Autonomous Organization, och det ansvarar för avgörande beslutsfattande. Det betyder att det inte finns någon enskild ansvarig; i stället fattas beslut om SPMT-projektet av alla deltagare i SPMT DAO. Beslutet fattas genom att alla deltagare i DAO får rösta för eller emot beslutet. Kriterierna för att delta i SPMT DAO är att förvärva en av de 15 000 SPMT planeter NFT:erna. Rätten att delta i SPMT DAO är endast reserverad för den nuvarande innehavaren av planet NFT. DAO-rätten är dock överlåtbar om den nuvarande innehavaren överlåter den till en annan person.
+
+## - Plånbok "Wallet"
+  
+En krypto plånbok är ett digitalt lagringsmedium för kryptovalutor. Plånboken lagrar de offentliga och privata nycklar som behövs för att komma åt och spendera $SPMT-tokens. Polletterna lagras i plånbokens adress, en unik sträng av alfanumeriska tecken. För närvarande kommer vi att använda generiska plånböcker som stödjer BEP-20-tokens, såsom Atomic Wallet, Trust Wallet, MetaMask, etc. Senare kommer vi att utveckla vår anpassade SPMT-plånbok. SPMT-plånboken är en plånbok med flera valutor vilket innebär att den stödjer andra populära kryptovalutor som Bitcoin, Ethereum, m.m. 
+
 
 ## 🚀 SPMT NFTs
-The SPMT NFTs collection consists of 40,000 NFTs; these NFTs are categorized into four based on their purpose and utility.
+SPMT NFTs samling består av 40 000 NFTs; dessa NFT:er är kategoriserade i fyra baserat på deras syfte och användbarhet.
 
-## - SPMT Planets
+## - SPMT Planeter
 
-•	There are 15,000 SPMT Planet NFTs.
+•	Det finns 15 000 SPMT planet NFTs.
 
-•	These planets can be developed for personal or commercial use or sold.
+•	Dessa planeter kan utvecklas för personligt eller kommersiellt bruk eller säljas.
 
-•	Each planet NFT has a presale price of 0.25 ETH and a main sale price of 0.3 ETH.
+•	Varje planet NFT har ett förköpspris på 0,25 ETH och ett nedsatt pris på $0,3.
 
-•	Popular planets have the same price as less popular ones, and acquiring popular planets is on a first-come basis.
+•	Populära planeter har samma pris som mindre populära, och att skaffa populära planeter är först till kvarn-principen.
 
-•	Owners of each planet can dig and mine $SPMT tokens hidden on their planets.
+•	Ägare av varje planet kan gräva och bryta $SPMT-tokens gömda på deras planeter.
 
-•	Planets can be leased to other players.
+•	Planeter kan hyras ut till andra spelare.
 
-•	Acquiring an SPMT Planet grants automatic DAO access
+•	Att skaffa en SPMT planet ger automatisk DAO-åtkomst
 
-•	Original/First owner of the SPMT Planet will receive a 1% commission from every resale of their SPMT Planet NFT (This is only reserved for the first owner).
-
-
-## - SPMT Shuttles
-
-•	There are 5,000 SPMT shuttles.
-
-•	The price of each shuttle in the SPMT Shuttles varies based on design, speed, and passenger capacity.
-
-•	The price ranges from 0.05 ETH to 0.15 ETH.
-
-•	An SPMT shuttle can be commercialized by offering a transport or vehicle lease service to other players in the SPMT Metaverse.
-
-•	Original/First owner of the SPMT Shuttle will receive a 0.5% commission from every resale of their SPMT Shuttle NFT (This is only reserved for the first owner).
+•	Den ursprungliga/första ägaren av SPMT planet kommer att få 1 % i provision från varje återförsäljning av sin SPMT planet NFT (detta är endast reserverat för den första ägaren).
 
 
-## - SPMT Real-Estates
+## - SPMT-skyttlar
 
-•	There are 10,000 SPMT Real-Estate tools.
+•	Det finns 5 000 SPMT-skyttlar.
 
-•	The price of each SPMT Real-Estate tool varies based on utility.
+•	Priset för varje skyttel i SPMT-skyttlarna varierar beroende på design, hastighet och passagerarkapacitet.
 
-•	The price ranges from 0.01 eth to 0.03 eth.
+•	Priset varierar från 0,05 ETH till $0,15.
 
-•	These SPMT Real-Estate tools can be rented out to other players for a price.
+•	En SPMT-skyttel kan kommersialiseras genom att erbjuda en transport- eller fordonsleasing tjänst till andra aktörer i SPMT Metaverse.
 
-
-## - SPMT Mining
-
-•	There are 10,000 SPMT mining tools.
-
-•	The price of each SPMT Mining tool varies based on the utility .
-
-•	The price ranges from 0.0001 ETH to 0.0008 ETH.
-
-•	These SPMT Mining tools can be rented out to other players for a price.
+•	Ursprunglig/första ägare av SPMT Shuttle kommer att få 0,5 % i provision från varje återförsäljning av sin SPMT Shuttle NFT (detta är endast reserverat för den första ägaren).
 
 
+## - SPMT Fastigheter
 
-## 🚀  How to earn in the SPMT Metaverse
-## -🪐 Tourism
-Metaverse tourism is a new type of travel exploring potential interactions between different universes or multiverses. This form of tourism has been growing in popularity in recent years, as people have become more fascinated by alternate universes and the opportunities they may provide for tourists. Metaverse tourism allows individuals to explore different universes or multiverses through virtual reality headsets, computer programs, or games. Planet owners in the SPMT Metaverse can develop their planets to be fascinating for tourism and then charge tourists for access.
+•	Det finns 10 000 SPMT fastighetsverktyg.
+
+•	Priset för varje SPMT fastighetsverktyg varierar beroende på användbarhet.
+
+•	Priset varierar från 0,01 eth till $ 0,03.
+
+•	Dessa SPMT fasitghetsverkyg kan hyras ut till andra spelare för ett pris.
+
+
+## - SPMT nedbrytning (mining)
+
+•	Det finns 10 000 SPMT grävverktyg.
+
+•	Priset för varje SPMT grävverktyg varierar beroende på verktyget.
+
+•	Priset varierar från 0,0001 ETH till $0,0008.
+
+•	Dessa SPMT grävverktyg kan hyras ut till andra spelare för ett pris.
+
+
+
+## 🚀 Hur man tjänar i SPMT Metaverse
+## -🪐 Turism
+  
+Metaverse turism erbjuder en ny variant av resor som utforskar potentiella interaktioner mellan olika universum eller multiversum. Denna form av turism har ökat i popularitet de senaste åren, eftersom människor har blivit mer fascinerade av alternativa universum och de möjligheter de kan ge turister. Metaverse-turism tillåter individer att utforska olika universum eller multiversum genom virtuell verklighet genom hörlurar, datorprogram eller spel. Samtliga planetägare i SPMT Metaverse kan utveckla sina planeter till att vara attraherande för turism och sedan kan de debitera turister för tillgång.
 
 ## -🪐 Leasing
-Similar to the real world, planet owners can lease out their planets once developed for a specific purpose. For instance, if a planet is designed for educational purposes – all resources to enhance learning have been created inside the planet. The owner can then lease out the planet to educational institutions for a specific period, thereby earning from the lease.
-
-## -🪐 Planet development
-Planet owners in the metaverse can develop their planet up to standard and auction it for sale to other SPMT players. The planet will be sold at a price higher than the development cost, thereby making a profit and earning from the development.
-
-## -🪐 Trading
-All metaverse users can trade digital assets and tokens inside the metaverse. The SPMT economy is dynamic; values of assets fluctuate. Users can use the dynamic value to purchase assets during a dip and sell them off during a rise, thereby earning profits.
+  
+I likhet med den verkliga världen kan planetägare hyra ut sina planeter när de väl utvecklats för ett specifikt ändamål. Till exempel, om en planet är designad för utbildningsändamål då skapas alla tillgängliga resurser för att förbättra lärandet på planeten. Ägaren kan sedan hyra ut planeten till utbildningsinstitutioner under en viss period och därmed tjäna på hyresavtalet.
 
 
-## -🪐  Services
-Not all planet owners will have the time and resources to develop their planets on their own; they will need help from someone who can complete some tasks on their behalf. Some users can then profit by offering various services to planet owners. For instance, civil engineers can earn by providing construction services during planet development.
+## -🪐 Planetutveckling
+  
+En planetägare i metaversen kan utveckla sin planet till standard och auktionera ut den för försäljning till andra SPMT-spelare. Planeten kommer att säljas till ett pris som är högre än utvecklingskostnaden och därmed göra vinst och tjäna på utvecklingen.
+
+## -🪐 Handel
+
+Alla metaverse-användare kan handla digitala tillgångar och tokens inuti metaverse. SPMT-ekonomin är dynamisk; värden på tillgångar fluktuerar. Användare kan använda det dynamiska värdet för att köpa tillgångar under en dip och sälja av dem under en uppgång och därigenom tjäna vinst.
 
 
-## -🪐 Mining
-There are random amounts of $SPMT tokens hidden below the surface of each SPMT planet; planet owners can only have these tokens when they mine them. Once mined, the tokens reflect on the balance inside the connected crypto wallet.
+## -🪐  Tjänster
+
+Samtliga planetägare kommer att inte ha tid och resurser att utveckla sina planeter på egen hand; de kommer att behöva hjälp från någon som kan utföra vissa uppgifter för deras räkning. Vissa användare kan då tjäna på att erbjuda olika tjänster till planetägare. Till exempel kan civilingenjörer tjäna pengar på att tillhandahålla byggtjänster under planetens utveckling.
 
 
-## -🪐  Staking
-Crypto staking is a form of investment that allows users to earn rewards while retaining ownership of their cryptocurrencies. SPMT Staking is how holders use their SPMT tokens to validate transactions and get rewards. This process allows stakers to earn instant rewards, a significant advantage for users who hold their digital assets in their wallets.
+## -🪐 Nedbrytning "Mining"
+
+Det finns slumpmässiga mängder $SPMT-tokens gömda under ytan på varje SPMT-planet; planetägare kan bara ha dessa tokens när de bryter dem. När de utvinnas reflekteras tokens på balansen inuti den anslutna krypto plånboken.
 
 
-## 🚀 SPMT Core Technologies
+## -🪐  Satsning "Staking"
 
-## - Smart Contract
-A smart contract is a blockchain protocol intended to facilitate, verify, or enforce the negotiation or performance of a contract. Smart contracts allow the execution of credible transactions without third parties. The network nodes verified these transactions and recorded them in a dispersed public ledger called a blockchain. Smart contracts handle all operations and processes in the SPMT Metaverse, eliminating human interference. Thus, it seamlessly and securely executes instructions in split seconds.
+Att satsa i krypto är en form av investering som tillåter användare att tjäna belöningar samtidigt som de behåller ägandet av sina kryptovalutor. SPMT Staking är hur innehavare använder sina SPMT-tokens för att validera transaktioner och få belöningar. Denna process gör det möjligt för aktörer att tjäna omedelbara belöningar, vilken är en betydande fördel för användare som har sina digitala tillgångar i sina plånböcker.
 
-## - Artificial Intelligence
-Artificial intelligence is used in the metaverse to create and control interactive computer-based characters known as avatars. These avatars can interact with other objects in the virtual world. They can be customized to look and act however the user desires. The use of artificial intelligence allows for more realistic and lifelike interactions in the metaverse, which can help to improve the overall user experience.
-Artificial intelligence will play a significant role in the SPMT Metaverse. It will be used to create intelligent avatars and manage the many aspects of the virtual world. AI will also be used to create realistic environments and objects, making the SPMT Metaverse feel more like a real-world environment.
+
+## 🚀 SPMT kärnteknologier
+
+## - Smart kontrakt
+
+Ett smart kontrakt är ett blockchain-protokoll avsett att underlätta, verifiera eller genomdriva förhandlingen eller fullgörandet av ett kontrakt. Smarta kontrakt tillåter genomförandet av trovärdiga transaktioner utan tredje part. Nätverksnoderna verifierade dessa transaktioner och registrerade dem i en spridd offentlig reskontra som kallas blockchain. Smarta kontrakt hanterar alla operationer och processer i SPMT Metaverse, vilket eliminerar mänsklig tidsslöseri och störning. Således utför den smidigt och säkert instruktioner på några sekunder.
+
+## - Artificiell intelligens
+
+Artificiell intelligens används i metaversen för att skapa och kontrollera interaktiva datorbaserade karaktärer som kallas avatarer. Dessa avatarer kan interagera med andra objekt i den virtuella världen. De kan anpassas för att se ut och agera hur användaren vill. Användningen av artificiell intelligens möjliggör mer realistiska och verklighetstrogna interaktioner i metaversen, vilket kan bidra till att förbättra den övergripande användarupplevelsen. Artificiell intelligens kommer att spela en betydande roll i SPMT Metaverse. Den kommer att användas för att skapa intelligenta avatarer och hantera de många aspekterna av den virtuella världen. AI kommer också att användas för att skapa realistiska miljöer och objekt, vilket gör att SPMT Metaverse känns mer som en verklig miljö.
 
 
 ## - VR/AR
-Virtual reality is an artificial, computer-generated environment that can be experienced through special electronic equipment, such as headsets or gloves. It can create the illusion of being in another place or time. The SPMT Metaverse is a virtual world built on the blockchain.
- It allows players to interact and explore via VR and AR interfaces. Planets in the SPMT Metaverse are parallel to the real world. It typically contains many of the same features as the real world, such as buildings, streets, and landscapes. And VR/AR will help to explore it seamlessly.
+  
+Virtuell verklighet är en artificiell, datorgenererad miljö som kan upplevas genom speciell elektrisk utrustning, såsom hörlurar eller handskar. Det kan skapa en illusion av att vara på en annan plats eller tid. SPMT Metaverse är en virtuell värld byggd på blockkedjan. Det låter spelare interagera och utforska via VR- och AR-gränssnitt. Samtliga planeter i SPMT Metaverse är parallella med den verkliga världen. Det innehåller vanligtvis många av samma egenskaper som den verkliga världen, såsom byggnader, gator och landskap. VR/AR hjälper till med att utforska det enkelt.
 
-## - Gamification
-Metaverse gamification uses gaming mechanics in non-gaming contexts to engage and motivate users. Gamification generally relies on feedback mechanisms, leaderboards, badges, and other rewards to engage users and encourage participation.
-Gamification in the SPMT Metaverse refers to gaming mechanics and design principles to engage and motivate players to achieve their goals. Gamification can add an extra dimension of fun and excitement to interactions while providing a more immersive experience. It can also help promote social connectedness and collaboration in the SPMT Metaverse and increase players’ motivation to learn and explore.
+## - Spelifiering
 
-
+Metaverse spelifiering använder en spelteknik i icke-spelsammanhang för att engagera och motivera användare. Spelifiering förlitar sig i allmänhet på återkopplingsmekanismer, topplistor, märken och andra belöningar för att engagera användare och uppmuntra deltagandet. Spelifiering i SPMT Metaverse hänvisar till spelteknik och designprinciper för att engagera och motivera spelare att uppnå sina mål. Spelifiering kan lägga till en extra dimension av nöje och spänning till interaktioner samtidigt som det ger en mer uppslukande upplevelse. Det kan också hjälpa till att främja social anknytning och samarbete i SPMT Metaverse och öka spelarnas motivation att lära och utforska.
 
 
-## ✔️ Disclaimer
-The information contained in this document, Space Metaverse Token white paper, is provided exclusively for informational purposes without express or implied guarantees, including warranties of accuracy, completeness, or suitability for any particular purpose. This document is not intended to be and does not constitute trading, financial, investment, or other types of advice. Based on this document, you should not make any financial or investment choices without performing independent research and consulting a competent financial advisor.
-Some countries may have laws against trading or participation in crypto-related processes or activities. Find local laws about crypto-related activities in your locality before engaging in the Space Metaverse Token. No team member will be held responsible in case of any financial loss.
-Space Metaverse Tokens (NFTs), $SPMT tokens, and other crypto-asset trading have potential rewards and risks. It may not be appropriate for everyone to participate in the Space Metaverse Token economy and activities. Anyone thinking about investing should seek expert help. Finally, you accept that you are using this white paper and its information solely at your own risk.
+
+
+
+## ✔️ Ansvarsfriskrivning
+
+Observera att den presenterade informationen i denna rapport som även kallas  Space Metaverse Token white paper, tillhandahålls uteslutande i informationssyfte utan uttryckliga eller underförstådda garantier, inklusive garantier om riktighet, fullständighet eller lämplighet för något särskilt ändamål. Denna rapport är inte avsedd att vara och utgör inte handels-, finans-, investerings- eller andra typer av rådgivning. Baserat på denna rapport bör du inte göra några finansiella eller investeringsval utan att utföra oberoende undersökningar och konsultera en kompetent finansiell rådgivare. Vissa länder kan ha lagar mot handel eller deltagande i kryptorelaterade processor eller aktiviteter. Läsaren bör hitta lokala lagar om kryptorelaterade aktiviteter i sin ort innan hen engagerar sig i Space Metaverse Token. Ingen gruppmedlem kommer att hållas ansvarig i händelse av en ekonomisk förlust. Space Metaverse Tokens (NFT), $SPMT-tokens och annan handel med kryptotillgångar har potentiella belöningar och risker. Observera att det inte är lämpligt för alla att delta i Space Metaverse Tokens ekonomi och aktiviteter. Alla som funderar på att investera bör söka experthjälp. Slutligen om du endast accepterar att du använder informationen från denna rapport och dess innehåll är det på egen risk.
 
 
 
 
 ## Support
-
-For support, email support@spacemetatoken.com or join our Telegram channel.
+För support kan du kontakta, e-post support@spacemetatoken.com eller gå med i vår Telegram-kanal.
