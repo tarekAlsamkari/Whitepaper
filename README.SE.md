@@ -18,7 +18,7 @@
 
 <em>Read this in other languages: 
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.RO.md">Romanian</a>,
-<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.EN.md">English</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ENG.md">English</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.SE.md">Swedish</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ITL.md">Italian</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>,
