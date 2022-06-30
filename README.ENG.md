@@ -161,7 +161,7 @@ The SPMT NFTs collection consists of 40,000 NFTs; these NFTs are categorized int
 
 •	These planets can be developed for personal or commercial use or sold.
 
-•	Each planet NFT has a presale price of 0.25 ETH and a main sale price of 0.3 ETH.
+•	Each planet NFT has a presale price of $0.25  and a main sale price of $0.3.
 
 •	Popular planets have the same price as less popular ones, and acquiring popular planets is on a first-come basis.
 
@@ -180,7 +180,7 @@ The SPMT NFTs collection consists of 40,000 NFTs; these NFTs are categorized int
 
 •	The price of each shuttle in the SPMT Shuttles varies based on design, speed, and passenger capacity.
 
-•	The price ranges from 0.05 ETH to 0.15 ETH.
+•	The price ranges from $0.05  to $0.15.
 
 •	An SPMT shuttle can be commercialized by offering a transport or vehicle lease service to other players in the SPMT Metaverse.
 
@@ -193,7 +193,7 @@ The SPMT NFTs collection consists of 40,000 NFTs; these NFTs are categorized int
 
 •	The price of each SPMT Real-Estate tool varies based on utility.
 
-•	The price ranges from 0.01 eth to 0.03 eth.
+•	The price ranges from $0.01 to $0.03.
 
 •	These SPMT Real-Estate tools can be rented out to other players for a price.
 
@@ -204,7 +204,7 @@ The SPMT NFTs collection consists of 40,000 NFTs; these NFTs are categorized int
 
 •	The price of each SPMT Mining tool varies based on the utility .
 
-•	The price ranges from 0.0001 ETH to 0.0008 ETH.
+•	The price ranges from $0.0001 to $0.0008.
 
 •	These SPMT Mining tools can be rented out to other players for a price.
 
