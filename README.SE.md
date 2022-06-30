@@ -186,7 +186,7 @@ SPMT NFTs samling består av 40 000 NFTs; dessa NFT:er är kategoriserade i fyra
 
 •	Priset för varje skyttel i SPMT-skyttlarna varierar beroende på design, hastighet och passagerarkapacitet.
 
-•	Priset varierar från 0,05 ETH till $0,15.
+•	Priset varierar från $0,05 till $0,15.
 
 •	En SPMT-skyttel kan kommersialiseras genom att erbjuda en transport- eller fordonsleasing tjänst till andra aktörer i SPMT Metaverse.
 
@@ -199,7 +199,7 @@ SPMT NFTs samling består av 40 000 NFTs; dessa NFT:er är kategoriserade i fyra
 
 •	Priset för varje SPMT fastighetsverktyg varierar beroende på användbarhet.
 
-•	Priset varierar från 0,01 eth till $ 0,03.
+•	Priset varierar från $0,01 till $ 0,03.
 
 •	Dessa SPMT fasitghetsverkyg kan hyras ut till andra spelare för ett pris.
 
@@ -210,7 +210,7 @@ SPMT NFTs samling består av 40 000 NFTs; dessa NFT:er är kategoriserade i fyra
 
 •	Priset för varje SPMT grävverktyg varierar beroende på verktyget.
 
-•	Priset varierar från 0,0001 ETH till $0,0008.
+•	Priset varierar från $0,0001 till $0,0008.
 
 •	Dessa SPMT grävverktyg kan hyras ut till andra spelare för ett pris.
 
