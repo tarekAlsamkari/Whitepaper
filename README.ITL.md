@@ -182,7 +182,7 @@ La raccolta di NFT SPMT è composta da 40.000 NFT; questi NFT sono classificati 
 
 •	Questi pianeti possono essere sviluppati per uso personale o commerciale o venduti;
 
-•	Ogni pianeta NFT ha un prezzo di prevendita di 0,25 ETH e un prezzo di vendita principale di 0,3 ETH;
+•	Ogni pianeta NFT ha un prezzo di prevendita di $0,25 e un prezzo di vendita principale di $0,3;
 
 •	I pianeti popolari hanno lo stesso prezzo di quelli meno popolari e l'acquisizione di pianeti popolari è in base all'ordine di arrivo;
 
@@ -201,7 +201,7 @@ La raccolta di NFT SPMT è composta da 40.000 NFT; questi NFT sono classificati 
 
 •	Il prezzo di ciascuna navetta delle navette SPMT varia in base al design, alla velocità e alla capacità dei passeggeri.
 
-•	Il prezzo varia da 0,05 ETH a 0,15 ETH.
+•	Il prezzo varia da $0,05 a $0,15.
 
 •	Una navetta SPMT può essere commercializzata offrendo un servizio di trasporto o noleggio di veicoli ad altri attori nel Metaverso SPMT.
 
@@ -214,7 +214,7 @@ La raccolta di NFT SPMT è composta da 40.000 NFT; questi NFT sono classificati 
 
 •	Il prezzo di ogni strumento immobiliare SPMT varia in base all'utilità;
 
-•	Il prezzo varia da 0,01 eth a 0,03 eth;
+•	Il prezzo varia da $0,01 a $0,03;
 
 •	Questi strumenti immobiliari di SPMT possono essere noleggiati ad altri giocatori per un prezzo.
 
@@ -225,7 +225,7 @@ La raccolta di NFT SPMT è composta da 40.000 NFT; questi NFT sono classificati 
 
 •	Il prezzo di ogni strumento di SPMT Mining varia in base all'utilità;
 
-•	Il prezzo varia da 0,0001 ETH a 0,0008 ETH;
+•	Il prezzo varia da $0,0001  a $0,0008;
 
 •	Questi strumenti di SPMT Mining possono essere noleggiati ad altri giocatori per un prezzo.
 
