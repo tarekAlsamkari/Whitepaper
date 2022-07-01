@@ -29,17 +29,17 @@
 
 ## 🚀 Abstract
 Hundreds of years from now, humankind will have developed advanced technology capable of transporting them and sustaining them on other planets. Countries worldwide have come together to create a single agency that oversees all exploration; the agency is named Space Metaverse Token (SPMT).
-SPMT is a one-of-a-kind metaverse gaming platform where you can explore simulated planets and experience immersive reality. You may find tremendous opportunities for financial gain in the game, all while exploring and having fun in the metaverse.
-SPMT is an exploration of the universe and the next big Play2Earn (P2E) game. SPMT is set to launch on the Binance Smart Chain network and offers investors various opportunities to earn money by acquiring private individual planets, developing them, and creating a micro-economy. The first collection of 15,000 SPMT Planet NFTs will be launched, each with unique characteristics and stats. The SPMT cryptocurrency and BEP-20 token, $SPMT, will be used to decentralize the digital galaxy.
+SPMT is a one-of-a-kind metaverse gaming platform where you can explore simulated planets and experience immersive reality.
+SPMT is an exploration of the universe and the next big Play2Earn (P2E) game. SPMT is set to launch on the Binance Smart Chain network and offers various opportunities to acquire private individual planets, developing them, and creating a micro-economy. The first collection of 15,000 SPMT Planet NFTs will be launched, each with unique characteristics and stats. The SPMT cryptocurrency and BEP-20 token, $SPMT, will be used to decentralize the digital galaxy.
 This white paper provides a high-level overview of the SPMT project. The main focus is on the intriguing blockchain technology used to establish a virtual game metaverse. This is not a technical white paper; instead, it is a general audience, gamers, and metaverse enthusiasts' introduction to SPMT Project.
 
 
 ## 🚀 Introduction
-"The metaverse" has been turned into a buzzword by executives, analysts, and investors seeking to capitalize on this emerging technology. The metaverse is a futuristic virtual world where humans can work, play, rest, socialize, etc. Virtual Reality (VR) and Augmented Reality (AR) technologies are anticipated to seamlessly combine the virtual and real worlds in the growing digital environment. The metaverse will alter our perception of the internet.
+"The metaverse" has been turned into a buzzword by executives, analysts, and seeking to capitalize on this emerging technology. The metaverse is a futuristic virtual world where humans can work, play, rest, socialize, etc. Virtual Reality (VR) and Augmented Reality (AR) technologies are anticipated to seamlessly combine the virtual and real worlds in the growing digital environment. The metaverse will alter our perception of the internet.
 Ubiquitous 5G high-speed internet access, Web 3.0, virtual reality, augmented reality, blockchain technology, NFTs, and growing markets like remote work and online socializing are all helping to pave the way for the metaverse.
-According to Gartner, Inc., the number of individuals spending at least one hour every day in the metaverse for work, retail, education, social, or entertainment will increase by 25% in 2026. And according to Morgan Stanley, overall VR AR expenditures worldwide are expected to expand at a CAGR of 57 percent, from $12 billion in 2020 to $72.8 billion in 2024. Another report claims that the metaverse or virtual worlds, might be worth $8 trillion in revenue. In conclusion, experts estimate that the metaverse will be worth $1 trillion additional value per year. This is why investors, entrepreneurs, and technology corporations are vying for a piece of the rising tech market that creates significant opportunities.
+According to Gartner, Inc., the number of individuals spending at least one hour every day in the metaverse for work, retail, education, social, or entertainment will increase by 25% in 2026. And according to Morgan Stanley, overall VR AR expenditures worldwide are expected to expand at a CAGR of 57 percent, from $12 billion in 2020 to $72.8 billion in 2024. Another report claims that the metaverse or virtual worlds, might be worth $8 trillion in revenue. In conclusion, experts estimate that the metaverse will be worth $1 trillion additional value per year. This is why entrepreneurs and technology corporations are vying for a piece of the rising tech market that creates significant opportunities.
 Metaverse is working on further combining the high-speed web with tangible sensory inputs to create more highly immersive digital environments. The immersive three-dimensional screen layer and integrated tactile inputs across a whole range of sense organs are used to create these virtual experiences. This virtual universe will generate a slew of new apps and enterprises and new career opportunities.
-The SPMT team believes that the metaverse is already here. We are creating the SPMT Metaverse to ensure you are positioned for entertainment and financial success with many opportunities to earn in our metaverse.
+The SPMT team believes that the metaverse is already here. We are creating the SPMT Metaverse to ensure you are positioned for entertainment with many opportunities in our metaverse.
 
 
 ## 🚀 The Blockchain Technology
@@ -59,12 +59,12 @@ The SPMT project is built for the open metaverse; players will be able to secure
 
 ## 🚀 Mission and Vision Statement 
 
-Our mission is to work with our community to create a system incorporating economics, games, and NFTs. The vision is to integrate NFT, gaming, and metaverse to reach an enjoyable, profitable, and global level of technology. We foresee a digital universe that grows with time and usage and an economy that drives the game and raises the value of $SPMT due to more user engagement.
+Our mission is to work with our community to create a system incorporating economics, games, and NFTs. The vision is to integrate NFT, gaming, and metaverse to reach an enjoyable and global level of technology. We foresee a digital universe that grows with time and usage and an economy that drives the game and raises the value of $SPMT due to more user engagement.
 
 
 ## 🚀 The SPMT Project
 The SPMT is the first blockchain project to implement meta-tourism fully controlled by players, where creativity is only limited to the players' intuition - A galaxy of endless possibilities and opportunities. 
-The SPMT project is for everyone; investors, gamers, explorers, crypto enthusiasts, and even casual internet users. At the initial stage of the project, the SPMT team has identified and named 15,000 habitable planets ready for sale. Once purchased, everything needed to develop these planets are also available as NFTs, which can be
+The SPMT project is for everyone; gamers, explorers, crypto enthusiasts, and even casual internet users. At the initial stage of the project, the SPMT team has identified and named 15,000 habitable planets ready for sale. Once purchased, everything needed to develop these planets are also available as NFTs, which can be
 
 •	Minted and uploaded into the SPMT Metaverse
 
@@ -74,7 +74,7 @@ The SPMT project is for everyone; investors, gamers, explorers, crypto enthusias
 
 •	Or import from another Metaverse (interoperability)
 
-The SPMT project employed a gamified approach to keep the fun alive. On entering the SPMT Metaverse, players can decide to float to their planet or take a space shuttle – which is faster. Individual players in the SPMT Metaverse can own these space shuttles for personal use or commercial transportation – which is one of the numerous ways of earning in the SPMT Metaverse. Also, there are free planets to explore for players who can’t afford to pay the tourism fee.
+The SPMT project employed a gamified approach to keep the fun alive. On entering the SPMT Metaverse, players can decide to float to their planet or take a space shuttle – which is faster. Individual players in the SPMT Metaverse can own these space shuttles for personal use or commercial transportation. Also, there are free planets to explore for players who can’t afford to pay the tourism fee.
 
 
 
@@ -108,12 +108,12 @@ In the SPMT Metaverse, planet owners can create fictional landscapes or scenes b
 
 
 ## - Mining
-There are $SPMT tokens hidden under the surface of each of the planets in the SPMT Metaverse; planet owners can dig their planets, mine these tokens, and have them as a reward for their effort. The mined $SPMT tokens immediately reflect on the player's digital balance inside the wallet. The tokens can then be converted into cash or exchanged for other cryptocurrencies on decentralized exchanges. 35% of the total $SPMT token supply is dedicated to this course.
+There are $SPMT tokens hidden under the surface of each of the planets in the SPMT Metaverse; planet owners can dig their planets, mine these tokens, and have them as a reward for their effort. The mined $SPMT tokens immediately reflect on the player's digital balance inside the wallet. 35% of the total $SPMT token supply is dedicated to this course.
 The SPMT metaverse provides essential mining tools such as picks, shovels, and axes but manually mining tokens on SPMT planets can be a daunting task and consumes a lot of time; this is why there are premium mining tools that planet owners can acquire to mine resources faster on their planets. Such tools include scanners, excavators, drills, dozers, etc. These tools are in the form of an NFT, and their value varies based on their efficiency; they can be resold if the owner no longer finds a use for them.
 
 
 ## - Development
-Planet owners must develop their planets to make them attractive and worthy of visitor exploration. Developing the planets depends on individual owners of the planets; they can build various real estate assets for personal or business purposes. They can create assets for rent or buy assets to resell when their value rises.
+Planet owners must develop their planets to make them attractive and worthy of visitor exploration. Developing the planets depends on individual owners of the planets; they can build various real estate assets for personal or business purposes. They can create assets for rent or buy assets to resell.
 There are tools to speed up the development process, and ready-made real estate assets are available in the SPMT in-house marketplace inside the metaverse. There will also be a provision for planet owners to create their complete real-estate assets from ordinary digital files, mint them into NFTs and upload it into the SPMT Metaverse. But this will be in the later stage of the project. Meanwhile, they can acquire tools to build or purchase the assets as a whole from the marketplace or other players in the metaverse.
 Furthermore, developing SPMT planets open opportunities for civil engineering and other professionals in the construction industry. Planet owners can hire professionals to build unique and fascinating structures on their planets.
 
@@ -142,8 +142,7 @@ A virtual economy operates in a fantasy environment, generally one that is virtu
 The virtual economy in the SPMT is similar to a real one, albeit there are notable distinctions; for example, no need to pay taxes or feeding expenses in the metaverse. However, because players engage and participate in the SPMT Metaverse activities, some factors, such as the need to pay for services, acquire digital assets, explore particular planets, etc., necessitate a payment. And the payments are processed with the $SPMT cryptocurrency.
 
 ## - Staking
-Staking on the SPMT blockchain is the process of committing your $SPMT cryptocurrency assets to support and confirm transactions on the SPMT network. Staking is how SPMT verifies transactions and lets $SPMT holders earn rewards on their assets. Because the SPMT token employs proof-of-stake to validate transactions, it permits staking. The proof-of-stake model uses less energy than the traditional proof-of-work model.
-Staking is an excellent strategy to earn passive income with your $SPMT tokens, mainly because $SPMT pays out high-interest rates for staking. SPMT's annual staking interest rate is as high as 7%.
+Staking on the SPMT blockchain is the process of committing your $SPMT cryptocurrency assets to support and confirm transactions on the SPMT network. Because the SPMT token employs proof-of-stake to validate transactions, it permits staking. The proof-of-stake model uses less energy than the traditional proof-of-work model.
 
 ## - DAO
 SPMT DAO is a way of organizing how the project is run. DAO stands for Decentralized Autonomous Organization, and it is responsible for key decision-making. This means that there is no single person in charge; instead, decisions concerning the SPMT project are made by all participants of the SPMT DAO. The decision is made by allowing every participant in the DAO to vote for or against the decision.
@@ -215,17 +214,17 @@ The SPMT NFTs collection consists of 40,000 NFTs; these NFTs are categorized int
 Metaverse tourism is a new type of travel exploring potential interactions between different universes or multiverses. This form of tourism has been growing in popularity in recent years, as people have become more fascinated by alternate universes and the opportunities they may provide for tourists. Metaverse tourism allows individuals to explore different universes or multiverses through virtual reality headsets, computer programs, or games. Planet owners in the SPMT Metaverse can develop their planets to be fascinating for tourism and then charge tourists for access.
 
 ## -🪐 Leasing
-Similar to the real world, planet owners can lease out their planets once developed for a specific purpose. For instance, if a planet is designed for educational purposes – all resources to enhance learning have been created inside the planet. The owner can then lease out the planet to educational institutions for a specific period, thereby earning from the lease.
+Similar to the real world, planet owners can lease out their planets once developed for a specific purpose. For instance, if a planet is designed for educational purposes – all resources to enhance learning have been created inside the planet. The owner can then lease out the planet to educational institutions for a specific period.
 
 ## -🪐 Planet development
-Planet owners in the metaverse can develop their planet up to standard and auction it for sale to other SPMT players. The planet will be sold at a price higher than the development cost, thereby making a profit and earning from the development.
+Planet owners in the metaverse can develop their planet up to standard and auction it for sale to other SPMT players.
 
 ## -🪐 Trading
-All metaverse users can trade digital assets and tokens inside the metaverse. The SPMT economy is dynamic; values of assets fluctuate. Users can use the dynamic value to purchase assets during a dip and sell them off during a rise, thereby earning profits.
+All metaverse users can trade digital assets and tokens inside the metaverse.
 
 
 ## -🪐  Services
-Not all planet owners will have the time and resources to develop their planets on their own; they will need help from someone who can complete some tasks on their behalf. Some users can then profit by offering various services to planet owners. For instance, civil engineers can earn by providing construction services during planet development.
+Not all planet owners will have the time and resources to develop their planets on their own; they will need help from someone who can complete some tasks on their behalf. Some users can offer various services to planet owners. For instance, civil engineers can provide construction services during planet development.
 
 
 ## -🪐 Mining
@@ -260,7 +259,7 @@ Gamification in the SPMT Metaverse refers to gaming mechanics and design princip
 ## ✔️ Disclaimer
 The information contained in this document, Space Metaverse Token white paper, is provided exclusively for informational purposes without express or implied guarantees, including warranties of accuracy, completeness, or suitability for any particular purpose. This document is not intended to be and does not constitute trading, financial, investment, or other types of advice. Based on this document, you should not make any financial or investment choices without performing independent research and consulting a competent financial advisor.
 Some countries may have laws against trading or participation in crypto-related processes or activities. Find local laws about crypto-related activities in your locality before engaging in the Space Metaverse Token. No team member will be held responsible in case of any financial loss.
-Space Metaverse Tokens (NFTs), $SPMT tokens, and other crypto-asset trading have potential rewards and risks. It may not be appropriate for everyone to participate in the Space Metaverse Token economy and activities. Anyone thinking about investing should seek expert help. Finally, you accept that you are using this white paper and its information solely at your own risk.
+Space Metaverse Tokens (NFTs), $SPMT tokens, and other crypto-asset have potential rewards and risks. It may not be appropriate for everyone to participate in the Space Metaverse Token. Anyone thinking about  should seek expert help. Finally, you accept that you are using this white paper and its information solely at your own risk.
 
 
 
