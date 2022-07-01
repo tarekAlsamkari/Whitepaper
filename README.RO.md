@@ -212,30 +212,37 @@ Colecția de NFT-uri SPMT constă din 40.000 de NFT, aceste NFT-uri sunt clasifi
 
 
 ## 🚀  Cum să câștigi în SPMT Metaverse
+
 ## -🪐 Tourism
-Metaverse tourism is a new type of travel exploring potential interactions between different universes or multiverses. This form of tourism has been growing in popularity in recent years, as people have become more fascinated by alternate universes and the opportunities they may provide for tourists. Metaverse tourism allows individuals to explore different universes or multiverses through virtual reality headsets, computer programs, or games. Planet owners in the SPMT Metaverse can develop their planets to be fascinating for tourism and then charge tourists for access.
+
+Turismul metavers este un nou tip de călătorie care explorează potențialele interacțiuni între diferite universuri sau multiverse. Această formă de turism a crescut în popularitate în ultimii ani, deoarece oamenii au devenit mai fascinați de universuri alternative și de oportunitățile pe care le pot oferi turiștilor. Turismul metavers permite indivizilor să exploreze diferite universuri sau multiverse prin căști de realitate virtuală, programe de calculator sau jocuri. Proprietarii de planete din SPMT Metaverse își pot dezvolta planetele pentru a fi fascinante pentru turism și apoi taxează turiștii pentru acces.
 
 ## -🪐 Leasing
-Similar to the real world, planet owners can lease out their planets once developed for a specific purpose. For instance, if a planet is designed for educational purposes – all resources to enhance learning have been created inside the planet. The owner can then lease out the planet to educational institutions for a specific period, thereby earning from the lease.
 
-## -🪐 Planet development
-Planet owners in the metaverse can develop their planet up to standard and auction it for sale to other SPMT players. The planet will be sold at a price higher than the development cost, thereby making a profit and earning from the development.
+Similar cu lumea reală, proprietarii de planete își pot închiria planetele odată dezvoltate pentru un anumit scop. De exemplu, dacă o planetă este proiectată în scopuri educaționale - toate resursele pentru a îmbunătăți învățarea au fost create în interiorul planetei. Proprietarul poate apoi să închirieze planeta instituțiilor de învățământ pentru o anumită perioadă, câștigând astfel din închiriere.
+
+## -🪐 Dezvoltarea planetei
+
+Proprietarii de planete din metavers își pot dezvolta planeta până la standard și o pot licita pentru vânzare altor jucători SPMT. Planeta va fi vândută la un preț mai mare decât costul dezvoltării, obținând astfel profit și câștigând din dezvoltare.
 
 ## -🪐 Trading
-All metaverse users can trade digital assets and tokens inside the metaverse. The SPMT economy is dynamic; values of assets fluctuate. Users can use the dynamic value to purchase assets during a dip and sell them off during a rise, thereby earning profits.
+
+Toți utilizatorii metaversului pot tranzacționa active digitale și jetoane în interiorul metaversului. Economia SPMT este dinamică; valorile activelor fluctuează. Utilizatorii pot folosi valoarea dinamică pentru a cumpăra active în timpul unei scăderi și a le vinde în timpul unei creșteri, obținând astfel profituri.
 
 
-## -🪐  Services
-Not all planet owners will have the time and resources to develop their planets on their own; they will need help from someone who can complete some tasks on their behalf. Some users can then profit by offering various services to planet owners. For instance, civil engineers can earn by providing construction services during planet development.
+## -🪐  Servicii
+
+Nu toți proprietarii de planete vor avea timp și resurse pentru a-și dezvolta singuri planetele; vor avea nevoie de ajutor de la cineva care poate îndeplini unele sarcini în numele lor. Unii utilizatori pot profita apoi oferind diverse servicii proprietarilor de planete. De exemplu, inginerii civili pot câștiga prin furnizarea de servicii de construcții în timpul dezvoltării planetei.
 
 
-## -🪐 Mining
-There are random amounts of $SPMT tokens hidden below the surface of each SPMT planet; planet owners can only have these tokens when they mine them. Once mined, the tokens reflect on the balance inside the connected crypto wallet.
+## -🪐 Mineritul 'Mining'
+
+Există cantități aleatorii de jetoane $SPMT ascunse sub suprafața fiecărei planete SPMT; Proprietarii de planete pot avea aceste jetoane numai atunci când le extrag. Odată extrase, jetoanele se reflectă asupra soldului din interiorul portofelului cripto conectat.
 
 
-## -🪐  Staking
-Crypto staking is a form of investment that allows users to earn rewards while retaining ownership of their cryptocurrencies. SPMT Staking is how holders use their SPMT tokens to validate transactions and get rewards. This process allows stakers to earn instant rewards, a significant advantage for users who hold their digital assets in their wallets.
+## -🪐  Miza 'Staking'
 
+Crypto staking este o formă de investiție care permite utilizatorilor să câștige recompense, păstrând în același timp proprietatea asupra criptomonedelor. SPMT Staking este modul în care deținătorii își folosesc jetoanele SPMT pentru a valida tranzacțiile și pentru a obține recompense. Acest proces permite participanților să câștige recompense instantanee, un avantaj semnificativ pentru utilizatorii care își păstrează activele digitale în portofel.
 
 ## 🚀 Tehnologii de baza SPMT
 
