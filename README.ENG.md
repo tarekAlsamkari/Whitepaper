@@ -209,7 +209,7 @@ The SPMT NFTs collection consists of 40,000 NFTs; these NFTs are categorized int
 
 
 
-## 🚀  How to earn in the SPMT Metaverse
+## 🚀  How to enjoy in the SPMT Metaverse
 ## -🪐 Tourism
 Metaverse tourism is a new type of travel exploring potential interactions between different universes or multiverses. This form of tourism has been growing in popularity in recent years, as people have become more fascinated by alternate universes and the opportunities they may provide for tourists. Metaverse tourism allows individuals to explore different universes or multiverses through virtual reality headsets, computer programs, or games. Planet owners in the SPMT Metaverse can develop their planets to be fascinating for tourism and then charge tourists for access.
 
