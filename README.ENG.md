@@ -22,6 +22,8 @@
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.SE.md">Swedish</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ITL.md">Italian</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.FR.md">French</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.GR.md">German</a>,
+<a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.ES.md">Spanish</a>,
 <a href="https://github.com/SpaceMetaverseToken/Whitepaper/blob/main/README.AR.md">Arabic</a>
 
 
