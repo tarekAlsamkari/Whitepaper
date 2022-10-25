@@ -74,13 +74,13 @@ $SPMT-Token ist das Utility-Token, das für Transaktionen und andere Prozesse im
 
 Das Gesamtangebot an $SPMT-Token wird auf 10.000.000.000 festgelegt. Jeder Token hat einen Wert von 0,00025 $. Token werden über ein ICO verkauft und sind bald auf Launchpad verfügbar. Die Token werden in folgendem Verhältnis auf die wichtigsten Stakeholder verteilt:  
 
-| Stakeholder | Percentage    | Amount               | Value                |
+  | Stakeholder | Percentage    | Amount               | Value                |
 | :-------- | :------- | :------------------------- | :------------------------- |
-| `The Team` | `10%` | 1,000,000,000 |$250,000| 
-| `Staking and rewards` | `24%` | 2,400,000,000 |$600,000 | 
-| `ICO` | `30%` | 3,000,000,000 |$750,000 | 
-| `Mining` | `36%` | 3,600,000,000|$900,000  | 
-| `Total` | `100%` | 10,000,000,000 |$2,500,000 | 
+| `The Team` | `10%` | 1,000,000,000 |$2,500,000| 
+| `Staking and rewards` | `24%` | 2,400,000,000 |$6,000,000 | 
+| `ICO` | `30%` | 3,000,000,000 |$7,500,000 | 
+| `Mining` | `36%` | 3,600,000,000|$9,000,000  | 
+| `Total` | `100%` | 10,000,000,000 |$25,000,000 | 
 
 
 
