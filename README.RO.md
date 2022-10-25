@@ -82,8 +82,7 @@ inclusiv drepturile de vot, acțiunile unei companii sau accesul la un anumit se
 
 ## 🚀 Distribuirea si Tokenomics
 
-Oferta totală de jetoane $SPMT va fi fixată la 10.000.000.000. Fiecare jeton este evaluat la
-0,00025 USD. Tokenurile vor fi vândute printr-un ICO și vor fi disponibile în curând pe Launchpad. Tokenurile vor fi distribuite în următoarea proporție dupa principalii factori interesați:
+Oferta totală de jetoane $SPMT va fi fixată la 10.000.000.000. Fiecare jeton este evaluat la 0,0005 USD. Tokenurile vor fi vândute printr-un ICO și vor fi disponibile în curând pe Launchpad. Tokenurile vor fi distribuite în următoarea proporție dupa principalii factori interesați:
 
 
 | Stakeholder | Percentage    | Amount               | Value                |
