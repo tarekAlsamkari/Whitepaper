@@ -74,13 +74,13 @@ $SPMT belirteci, SPMT projesi ve Metaverse'deki işlemler ve diğer işlemler i�
 ## 🚀 Simgeler ve dağıtım 
 SPMT jetonlarının toplam arzı, 10.000.000.000 olarak dolara sabitlenecektir. Her jeton 0,0025 ABD doları değerindedir. Jetonlar ICO aracılığıyla satılacak ve yakında Launchpad'de satışa sunulacak. Jetonlar, ana paydaşlar arasında aşağıdaki oranlarda dağıtılacaktır:
 
-| Stakeholder | Percentage    | Amount               | Value                |
+  | Stakeholder | Percentage    | Amount               | Value                |
 | :-------- | :------- | :------------------------- | :------------------------- |
-| `The Team` | `10%` | 1,000,000,000 |$250,000| 
-| `Staking and rewards` | `24%` | 2,400,000,000 |$600,000 | 
-| `ICO` | `30%` | 3,000,000,000 |$750,000 | 
-| `Mining` | `36%` | 3,600,000,000|$900,000  | 
-| `Total` | `100%` | 10,000,000,000 |$2,500,000 | 
+| `The Team` | `10%` | 1,000,000,000 |$2,500,000| 
+| `Staking and rewards` | `24%` | 2,400,000,000 |$6,000,000 | 
+| `ICO` | `30%` | 3,000,000,000 |$7,500,000 | 
+| `Mining` | `36%` | 3,600,000,000|$9,000,000  | 
+| `Total` | `100%` | 10,000,000,000 |$25,000,000 | 
 
 
 
