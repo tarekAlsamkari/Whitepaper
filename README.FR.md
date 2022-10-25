@@ -80,7 +80,7 @@ Les jetons BEP-20 sont des actifs numériques qui utilisent la blockchain Binanc
 
 ## 🚀 Tokenomics et distribution
 
-L'offre totale de jetons SPMT sera fixée à 10 000 000 000. Chaque jeton est évalué à 0,00025 $. Les jetons seront vendus via un ICO et seront bientôt disponibles sur Launchpad. Les jetons seront répartis dans la proportion suivante entre les principales parties prenantes :
+L'offre totale de jetons SPMT sera fixée à 10 000 000 000. Chaque jeton est évalué à 0,0025 $. Les jetons seront vendus via un ICO et seront bientôt disponibles sur Launchpad. Les jetons seront répartis dans la proportion suivante entre les principales parties prenantes :
 
 
 | Partie prenante | Pourcentage     | Montant                | Valeur                |
