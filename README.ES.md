@@ -72,7 +72,7 @@ El token $SPMT es el token de utilidad utilizado para las transacciones y otros 
 
 ## 🚀 Tokenomía y distribución
 
-La oferta total de tókenes $SPMT se fijará en 10.000.000.000. Cada token está valorado en 0,00025 dólares. Los tókenes se venderán a través de una ICO y pronto estarán disponibles en la plataforma de lanzamiento. Los tókenes se distribuirán en la siguiente proporción entre los principales partes interesadas:
+La oferta total de tókenes $SPMT se fijará en 10.000.000.000. Cada token está valorado en 0,0025 dólares. Los tókenes se venderán a través de una ICO y pronto estarán disponibles en la plataforma de lanzamiento. Los tókenes se distribuirán en la siguiente proporción entre los principales partes interesadas:
 
 | Parte Interesada | Porcentajes    | Monto               | Valor                |
 | :-------- | :------- | :------------------------- | :------------------------- |
