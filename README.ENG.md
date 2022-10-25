@@ -85,7 +85,7 @@ $SPMT token is the utility token used for transactions and other processes in th
 BEP-20 tokens are digital assets that use the Binance Smart Chain blockchain to represent a particular ownership stake or entitlement in a blockchain project. These tokens are created and distributed using a smart contract, which allows for a more streamlined and automated process than traditional fundraising methods. BEP-20 tokens can represent various things, including voting rights, shares in a company, or access to a particular service – in this case, the SPMT Metaverse.
 
 ## 🚀 Tokenomics and Distribution
-The total supply of $SPMT tokens will be pegged at 10,000,000,000. Each token is valued at $0.00025. Tokens will be sold through an ICO and soon be available on Launchpad. The tokens will be distributed in the following proportion among the major stakeholders:
+The total supply of $SPMT tokens will be pegged at 10,000,000,000. Each token is valued at $0.0025. Tokens will be sold through an ICO and soon be available on Launchpad. The tokens will be distributed in the following proportion among the major stakeholders:
 
 
 | Stakeholder | Percentage    | Amount               | Value                |
