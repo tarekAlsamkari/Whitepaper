@@ -82,14 +82,13 @@ $SPMT-token är verktygstoken som används för transaktioner och andra processe
 
 Det totala utbudet av $SPMT-tokens kommer att kopplas till 10 000 000 000. Varje token är värd 0,00025 USD. Tokens kommer att säljas via en ICO som är en förkortning till det engelska uttrycket initial coin offering, och snart kommer de vara tillgängliga på en startplatta.Tokens kommer att fördelas i följande proportioner bland de största intressenterna: 
 
-
-| Stakeholder | Percentage    | Amount               | Value                |
+  | Stakeholder | Percentage    | Amount               | Value                |
 | :-------- | :------- | :------------------------- | :------------------------- |
-| `The Team` | `10%` | 1,000,000,000 |$250,000| 
-| `Staking and rewards` | `24%` | 2,400,000,000 |$600,000 | 
-| `ICO` | `30%` | 3,000,000,000 |$750,000 | 
-| `Mining` | `36%` | 3,600,000,000|$900,000  | 
-| `Total` | `100%` | 10,000,000,000 |$2,500,000 | 
+| `The Team` | `10%` | 1,000,000,000 |$2,500,000| 
+| `Staking and rewards` | `24%` | 2,400,000,000 |$6,000,000 | 
+| `ICO` | `30%` | 3,000,000,000 |$7,500,000 | 
+| `Mining` | `36%` | 3,600,000,000|$9,000,000  | 
+| `Total` | `100%` | 10,000,000,000 |$25,000,000 | 
 
 
 
