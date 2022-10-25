@@ -86,13 +86,13 @@ Oferta totală de jetoane $SPMT va fi fixată la 10.000.000.000. Fiecare jeton e
 0,00025 USD. Tokenurile vor fi vândute printr-un ICO și vor fi disponibile în curând pe Launchpad. Tokenurile vor fi distribuite în următoarea proporție dupa principalii factori interesați:
 
 
-| Stakeholder | Percentage    | Amount               | Value                |
+  | Stakeholder | Percentage    | Amount               | Value                |
 | :-------- | :------- | :------------------------- | :------------------------- |
-| `The Team` | `10%` | 1,000,000,000 |$250,000| 
-| `Staking and rewards` | `24%` | 2,400,000,000 |$600,000 | 
-| `ICO` | `30%` | 3,000,000,000 |$750,000 | 
-| `Mining` | `36%` | 3,600,000,000|$900,000  | 
-| `Total` | `100%` | 10,000,000,000 |$2,500,000 | 
+| `The Team` | `10%` | 1,000,000,000 |$2,500,000| 
+| `Staking and rewards` | `24%` | 2,400,000,000 |$6,000,000 | 
+| `ICO` | `30%` | 3,000,000,000 |$7,500,000 | 
+| `Mining` | `36%` | 3,600,000,000|$9,000,000  | 
+| `Total` | `100%` | 10,000,000,000 |$25,000,000 | 
 
 
 
